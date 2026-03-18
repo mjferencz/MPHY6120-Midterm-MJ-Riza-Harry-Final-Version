@@ -350,7 +350,7 @@ if __name__ == "__main__":
     lineage_df = pd.read_csv("data/lineage_data.csv", index_col=0)
     subtype_df = pd.read_csv("data/subtype_data.csv", index_col=0)
     crispr_lineage, crispr_subtype = loading_features(crispr_df, lineage_df, subtype_df)
-    # corrs_distrs(crispr_df, lineage_df, subtype_df)
+    corrs_distrs(crispr_df, lineage_df, subtype_df)
     # lineage first
     results_lin = run_experiment_n_times(prepare_fn, crispr_lineage, "Lineage")
     results_lin.rename(columns={'Baseline': 'Lineage Baseline', 'Random Forest': 'Lineage Random Forest'}, inplace=True)
