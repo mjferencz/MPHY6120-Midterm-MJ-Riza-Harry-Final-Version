@@ -1,0 +1,2133 @@
+,line_id,OncotreeSubtype
+0,ACH-000001,High-Grade Serous Ovarian Cancer
+1,ACH-000002,AML with Myelodysplasia-Related Changes
+2,ACH-000003,Colon Adenocarcinoma
+3,ACH-000004,"AML, NOS"
+4,ACH-000005,Acute Myeloid Leukemia
+5,ACH-000006,Acute Myeloid Leukemia
+6,ACH-000007,Colon Adenocarcinoma
+7,ACH-000008,Melanoma
+8,ACH-000009,Colon Adenocarcinoma
+9,ACH-000011,Bladder Urothelial Carcinoma
+10,ACH-000012,Lung Adenocarcinoma
+11,ACH-000013,High-Grade Serous Ovarian Cancer
+12,ACH-000014,Melanoma
+13,ACH-000015,Large Cell Lung Carcinoma
+14,ACH-000016,Renal Clear Cell Carcinoma
+15,ACH-000017,Invasive Breast Carcinoma
+16,ACH-000018,Bladder Urothelial Carcinoma
+17,ACH-000019,Invasive Breast Carcinoma
+18,ACH-000020,B-Cell Acute Lymphoblastic Leukemia
+19,ACH-000021,Lung Adenocarcinoma
+20,ACH-000022,Pancreatic Adenocarcinoma
+21,ACH-000023,Pancreatic Adenocarcinoma
+22,ACH-000024,Plasma Cell Myeloma
+23,ACH-000025,Meningioma
+24,ACH-000026,Bladder Urothelial Carcinoma
+25,ACH-000027,Glioblastoma
+26,ACH-000028,Invasive Breast Carcinoma
+27,ACH-000029,Lung Adenocarcinoma
+28,ACH-000030,Lung Adenocarcinoma
+29,ACH-000031,Pancreatic Adenocarcinoma
+30,ACH-000032,B-Cell Acute Lymphoblastic Leukemia
+31,ACH-000033,Lung Adenocarcinoma
+32,ACH-000034,Acute Myeloid Leukemia
+33,ACH-000035,Non-Small Cell Lung Cancer
+34,ACH-000036,Glioblastoma
+35,ACH-000037,"Sarcoma, NOS"
+36,ACH-000038,"Transformed cell line, B lymphoblast"
+37,ACH-000039,Ewing Sarcoma
+38,ACH-000040,Astrocytoma
+39,ACH-000041,Ewing Sarcoma
+40,ACH-000042,Pancreatic Adenocarcinoma
+41,ACH-000043,"Fibroblast, Skin"
+42,ACH-000044,Breast Invasive Lobular Carcinoma
+43,ACH-000045,Acute Myeloid Leukemia
+44,ACH-000046,Papillary Renal Cell Carcinoma
+45,ACH-000047,Stomach Adenocarcinoma
+46,ACH-000048,Endometrioid Ovarian Cancer
+47,ACH-000049,Immortalized Embyonic Kidney Cells
+48,ACH-000050,Plasma Cell Myeloma
+49,ACH-000051,Rhabdomyosarcoma
+50,ACH-000052,Ewing Sarcoma
+51,ACH-000053,Anaplastic Large-Cell Lymphoma ALK Positive
+52,ACH-000054,Fibrosarcoma
+53,ACH-000055,Medulloblastoma
+54,ACH-000056,"Diffuse Large B-Cell Lymphoma, NOS"
+55,ACH-000057,Plasma Cell Myeloma
+56,ACH-000058,Follicular Thyroid Cancer
+57,ACH-000059,B-Cell Acute Lymphoblastic Leukemia
+58,ACH-000060,Pancreatic Adenocarcinoma
+59,ACH-000061,Mature T and NK Neoplasms
+60,ACH-000062,Lung Adenocarcinoma
+61,ACH-000063,"Fibroblast, Lymphoid"
+62,ACH-000064,Immortalized Lung Cells
+63,ACH-000065,Acute Myeloid Leukemia
+64,ACH-000066,Lung Adenocarcinoma
+65,ACH-000067,Oligodendroglioma
+66,ACH-000068,Mantle Cell Lymphoma
+67,ACH-000069,Hodgkin Lymphoma
+68,ACH-000070,B-Cell Acute Lymphoblastic Leukemia
+69,ACH-000071,"Fibroblast, Bone"
+70,ACH-000072,"Chronic Myeloid Leukemia, BCR-ABL1+"
+71,ACH-000073,Mantle Cell Lymphoma
+72,ACH-000074,"Chronic Myeloid Leukemia, BCR-ABL1+"
+73,ACH-000075,Glioblastoma
+74,ACH-000076,"Chronic Myeloid Leukemia, BCR-ABL1+"
+75,ACH-000077,Mature T and NK Neoplasms
+76,ACH-000078,Neuroblastoma
+77,ACH-000079,"Fibroblast, Soft Tissue"
+78,ACH-000080,Acute Monoblastic/Monocytic Leukemia
+79,ACH-000081,Acute Myeloid Leukemia
+80,ACH-000082,Osteosarcoma
+81,ACH-000083,"Fibroblast, Breast"
+82,ACH-000084,AML with Myelodysplasia-Related Changes
+83,ACH-000085,Pancreatic Adenocarcinoma
+84,ACH-000086,"Pleural Mesothelioma, Epithelioid Type"
+85,ACH-000087,Ewing Sarcoma
+86,ACH-000088,"Fibroblast, Urinary Tract"
+87,ACH-000089,Colon Adenocarcinoma
+88,ACH-000090,Prostate Adenocarcinoma
+89,ACH-000091,Serous Ovarian Cancer
+90,ACH-000092,"Pleural Mesothelioma, Biphasic Type"
+91,ACH-000093,Pancreatic Adenocarcinoma
+92,ACH-000094,Pancreatic Adenocarcinoma
+93,ACH-000095,Medulloblastoma
+94,ACH-000096,Rhabdoid Cancer
+95,ACH-000097,Breast Invasive Ductal Carcinoma
+96,ACH-000098,Glioblastoma
+97,ACH-000099,Neuroblastoma
+98,ACH-000100,Alveolar Rhabdomyosarcoma
+99,ACH-000101,T-Cell Acute Lymphoblastic Leukemia
+100,ACH-000102,Glioblastoma
+101,ACH-000103,High-Grade Serous Ovarian Cancer
+102,ACH-000104,T-Cell Acute Lymphoblastic Leukemia
+103,ACH-000105,T-Cell Acute Lymphoblastic Leukemia
+104,ACH-000106,Mantle Cell Lymphoma
+105,ACH-000107,Pancreatic Adenocarcinoma
+106,ACH-000108,Adenosquamous Carcinoma of the Pancreas
+107,ACH-000109,Lung Adenocarcinoma
+108,ACH-000110,Stomach Adenocarcinoma
+109,ACH-000111,Breast Invasive Ductal Carcinoma
+110,ACH-000112,Acute Monoblastic/Monocytic Leukemia
+111,ACH-000113,Acute Myeloid Leukemia
+112,ACH-000114,Pancreatic Adenocarcinoma
+113,ACH-000115,Prostate Adenocarcinoma
+114,ACH-000116,High-Grade Serous Ovarian Cancer
+115,ACH-000117,Invasive Breast Carcinoma
+116,ACH-000118,Pancreatic Adenocarcinoma
+117,ACH-000119,"Fibroblast, Bone"
+118,ACH-000120,Neuroblastoma
+119,ACH-000121,Lung Adenocarcinoma
+120,ACH-000122,T-Cell Acute Lymphoblastic Leukemia
+121,ACH-000123,Small Cell Carcinoma of the Ovary
+122,ACH-000124,"Diffuse Large B-Cell Lymphoma, NOS"
+123,ACH-000125,"Fibroblast, Lymphoid"
+124,ACH-000126,Oligodendroglioma
+125,ACH-000127,Bladder Urothelial Carcinoma
+126,ACH-000128,Astrocytoma
+127,ACH-000129,Small Cell Neuroendocrine Carcinoma of the Cervix
+128,ACH-000130,B-Cell Acute Lymphoblastic Leukemia
+129,ACH-000131,"Fibroblast, Lung"
+130,ACH-000132,High-Grade Serous Ovarian Cancer
+131,ACH-000133,Fibroblast
+132,ACH-000134,"Fibroblast, Breast"
+133,ACH-000135,"Fibroblast, Skin"
+134,ACH-000136,Neuroblastoma
+135,ACH-000137,Glioblastoma
+136,ACH-000138,Pancreatic Adenocarcinoma
+137,ACH-000139,Pancreatic Adenocarcinoma
+138,ACH-000140,"Diffuse Large B-Cell Lymphoma, NOS"
+139,ACH-000141,"Gallbladder Adenocarcinoma, NOS"
+140,ACH-000142,Bladder Urothelial Carcinoma
+141,ACH-000143,NUT Carcinoma of the Lung
+142,ACH-000144,Stomach Adenocarcinoma
+143,ACH-000145,Leiomyosarcoma
+144,ACH-000146,Acute Myeloid Leukemia
+145,ACH-000147,Breast Invasive Ductal Carcinoma
+146,ACH-000148,"Breast Invasive Carcinoma, NOS"
+147,ACH-000149,Neuroblastoma
+148,ACH-000150,Lung Adenocarcinoma
+149,ACH-000151,B-Cell Acute Lymphoblastic Leukemia
+150,ACH-000152,Glioblastoma
+151,ACH-000153,"Pleural Mesothelioma, Sarcomatoid Type"
+152,ACH-000154,"Fibroblast, Bone"
+153,ACH-000155,Pancreatic Adenocarcinoma
+154,ACH-000156,B-Cell Acute Lymphoblastic Leukemia
+155,ACH-000157,"Diffuse Large B-Cell Lymphoma, NOS"
+156,ACH-000158,Activated B-cell Type
+157,ACH-000159,Renal Clear Cell Carcinoma
+158,ACH-000160,Atypical Teratoid/Rhabdoid Tumor
+159,ACH-000161,Lung Adenocarcinoma
+160,ACH-000162,Burkitt Lymphoma
+161,ACH-000163,Head and Neck Squamous Cell Carcinoma
+162,ACH-000164,Pancreatic Adenocarcinoma
+163,ACH-000165,"Fibroblast, Lymphoid"
+164,ACH-000166,Acute Myeloid Leukemia
+165,ACH-000167,Plasma Cell Myeloma
+166,ACH-000168,Acute Monoblastic/Monocytic Leukemia
+167,ACH-000169,Embryonal Rhabdomyosarcoma
+168,ACH-000170,"Immortalized Epithelial Cells, Prostate"
+169,ACH-000171,Renal Cell Carcinoma
+170,ACH-000172,Extrarenal Rhabdoid Cancer
+171,ACH-000173,Endometrial Carcinoma
+172,ACH-000174,Anaplastic Thyroid Cancer
+173,ACH-000175,"Fibroblast, Soft Tissue"
+174,ACH-000176,Lung Squamous Cell Carcinoma
+175,ACH-000177,Prostate Small Cell Carcinoma
+176,ACH-000178,Pancreatic Adenocarcinoma
+177,ACH-000179,Small Cell Lung Cancer
+178,ACH-000180,"Fibroblast, Skin"
+179,ACH-000181,Oral Cavity Squamous Cell Carcinoma
+180,ACH-000182,Ampullary Carcinoma
+181,ACH-000183,Plasma Cell Myeloma
+182,ACH-000184,"Fibroblast, Breast"
+183,ACH-000185,"Fibroblast, Bone"
+184,ACH-000186,Non-Small Cell Lung Cancer
+185,ACH-000187,Small Cell Lung Cancer
+186,ACH-000188,Oral Cavity Squamous Cell Carcinoma
+187,ACH-000189,Renal Cell Carcinoma
+188,ACH-000190,Acute Myeloid Leukemia
+189,ACH-000191,Anaplastic Thyroid Cancer
+190,ACH-000192,Endometrial Carcinoma
+191,ACH-000193,Plasma Cell Myeloma
+192,ACH-000194,"Fibroblast, Skin"
+193,ACH-000195,"AML, NOS"
+194,ACH-000196,Breast Invasive Ductal Carcinoma
+195,ACH-000197,T-Cell Acute Lymphoblastic Leukemia
+196,ACH-000198,Acute Myeloid Leukemia
+197,ACH-000199,"Fibroblast, Colorectal"
+198,ACH-000200,Glioblastoma
+199,ACH-000201,Rhabdoid Cancer
+200,ACH-000202,Colon Adenocarcinoma
+201,ACH-000203,Neuroblastoma
+202,ACH-000204,Plasma Cell Myeloma
+203,ACH-000205,Pancreatic Adenocarcinoma
+204,ACH-000206,"Transformed cell line, B lymphoblast"
+205,ACH-000207,Oropharynx Squamous Cell Carcinoma
+206,ACH-000208,Astrocytoma
+207,ACH-000209,Intrahepatic Cholangiocarcinoma
+208,ACH-000210,Ewing Sarcoma
+209,ACH-000211,Medulloblastoma
+210,ACH-000212,Invasive Breast Carcinoma
+211,ACH-000213,Pancreatic Adenocarcinoma
+212,ACH-000214,"Fibroblast, Colorectal"
+213,ACH-000215,Glioblastoma
+214,ACH-000216,Esophageal Adenocarcinoma
+215,ACH-000217,Hepatocellular Carcinoma
+216,ACH-000218,AML with Myelodysplasia-Related Changes
+217,ACH-000219,Melanoma
+218,ACH-000220,Mantle Cell Lymphoma
+219,ACH-000221,Hepatocellular Carcinoma
+220,ACH-000222,Pancreatic Adenocarcinoma
+221,ACH-000223,Breast Invasive Ductal Carcinoma
+222,ACH-000224,"Fibroblast, Bone"
+223,ACH-000225,Small Cell Carcinoma of the Stomach
+224,ACH-000226,Anaplastic Large-Cell Lymphoma ALK Positive
+225,ACH-000227,Neuroblastoma
+226,ACH-000228,Oral Cavity Squamous Cell Carcinoma
+227,ACH-000229,"Fibroblast, Bone"
+228,ACH-000230,"Fibroblast, Breast"
+229,ACH-000231,Glioblastoma
+230,ACH-000232,Astrocytoma
+231,ACH-000233,Anaplastic Large-Cell Lymphoma ALK Positive
+232,ACH-000234,Papillary Renal Cell Carcinoma
+233,ACH-000235,Pancreatic Adenocarcinoma
+234,ACH-000236,Colon Adenocarcinoma
+235,ACH-000237,Mucinous Ovarian Cancer
+236,ACH-000238,Oral Cavity Squamous Cell Carcinoma
+237,ACH-000239,Tubular Stomach Adenocarcinoma
+238,ACH-000240,"Fibroblast, Skin"
+239,ACH-000241,"Chronic Myeloid Leukemia, BCR-ABL1+"
+240,ACH-000242,Bladder Urothelial Carcinoma
+241,ACH-000243,Pancreatic Adenocarcinoma
+242,ACH-000244,Glioblastoma
+243,ACH-000245,Burkitt Lymphoma
+244,ACH-000246,Renal Clear Cell Carcinoma
+245,ACH-000247,Diffuse Type Stomach Adenocarcinoma
+246,ACH-000248,Invasive Breast Carcinoma
+247,ACH-000249,Colon Adenocarcinoma
+248,ACH-000250,Renal Clear Cell Carcinoma
+249,ACH-000251,Non-Small Cell Lung Cancer
+250,ACH-000252,Colon Adenocarcinoma
+251,ACH-000253,Colon Adenocarcinoma
+252,ACH-000254,Oral Cavity Squamous Cell Carcinoma
+253,ACH-000255,Stomach Adenocarcinoma
+254,ACH-000256,High-Grade Serous Ovarian Cancer
+255,ACH-000257,Small Cell Lung Cancer
+256,ACH-000258,Invasive Breast Carcinoma
+257,ACH-000259,Neuroblastoma
+258,ACH-000260,Neuroblastoma
+259,ACH-000261,Lung Squamous Cell Carcinoma
+260,ACH-000262,Renal Clear Cell Carcinoma
+261,ACH-000263,Acute Myeloid Leukemia
+262,ACH-000264,Lung Adenocarcinoma
+263,ACH-000265,Pancreatic Adenocarcinoma
+264,ACH-000266,Pancreatic Adenocarcinoma
+265,ACH-000267,Hodgkin Lymphoma
+266,ACH-000268,Extrahepatic Cholangiocarcinoma
+267,ACH-000269,Glioblastoma
+268,ACH-000270,Pancreatic Adenocarcinoma
+269,ACH-000271,"Diffuse Large B-Cell Lymphoma, NOS"
+270,ACH-000272,Renal Clear Cell Carcinoma
+271,ACH-000273,Gliosarcoma
+272,ACH-000274,Melanoma
+273,ACH-000275,"Fibroblast, Skin"
+274,ACH-000276,Breast Invasive Ductal Carcinoma
+275,ACH-000277,Breast Invasive Ductal Carcinoma
+276,ACH-000278,High-Grade Serous Ovarian Cancer
+277,ACH-000279,Ewing Sarcoma
+278,ACH-000280,"Brenner Tumor, Malignant"
+279,ACH-000281,Pancreatic Adenocarcinoma
+280,ACH-000282,Lung Adenocarcinoma
+281,ACH-000283,Glioblastoma
+282,ACH-000284,"Fibroblast, Upper Aerodigestive"
+283,ACH-000285,"Diffuse Large B-Cell Lymphoma, NOS"
+284,ACH-000286,Rectal Adenocarcinoma
+285,ACH-000287,Activated B-cell Type
+286,ACH-000288,"Breast Invasive Carcinoma, NOS"
+287,ACH-000289,Glioblastoma
+288,ACH-000290,Small Cell Lung Cancer
+289,ACH-000291,Serous Ovarian Cancer
+290,ACH-000292,SMARCA4-deficient undifferentiated tumor
+291,ACH-000293,Endometrial Carcinoma
+292,ACH-000294,Acute Promyelocytic Leukemia
+293,ACH-000295,"Chronic Myeloid Leukemia, BCR-ABL1+"
+294,ACH-000296,Colon Adenocarcinoma
+295,ACH-000297,Small Cell Lung Cancer
+296,ACH-000298,Small Cell Lung Cancer
+297,ACH-000299,Acute Myeloid Leukemia
+298,ACH-000300,Renal Clear Cell Carcinoma
+299,ACH-000301,"Chronic Myeloid Leukemia, BCR-ABL1+"
+300,ACH-000302,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+301,ACH-000303,Stomach Adenocarcinoma
+302,ACH-000304,Melanoma
+303,ACH-000305,Esophageal Squamous Cell Carcinoma
+304,ACH-000306,"Fibroblast, Skin"
+305,ACH-000307,Pancreatic Adenocarcinoma
+306,ACH-000308,Serous Ovarian Cancer
+307,ACH-000309,Lung Adenocarcinoma
+308,ACH-000310,Neuroblastoma
+309,ACH-000311,Lung Adenocarcinoma
+310,ACH-000312,Neuroblastoma
+311,ACH-000313,Renal Clear Cell Carcinoma
+312,ACH-000314,Lung Adenocarcinoma
+313,ACH-000315,"Diffuse Large B-Cell Lymphoma, NOS"
+314,ACH-000316,Hepatocellular Carcinoma
+315,ACH-000317,Renal Cell Carcinoma
+316,ACH-000318,Esophageal Squamous Cell Carcinoma
+317,ACH-000319,"Pleural Mesothelioma, Epithelioid Type"
+318,ACH-000320,Pancreatic Adenocarcinoma
+319,ACH-000321,"Chronic Myeloid Leukemia, BCR-ABL1+"
+320,ACH-000322,Melanoma
+321,ACH-000323,Glioblastoma
+322,ACH-000324,Clear Cell Ovarian Cancer
+323,ACH-000325,Stomach Adenocarcinoma
+324,ACH-000326,"Chronic Myeloid Leukemia, BCR-ABL1+"
+325,ACH-000327,Lung Adenocarcinoma
+326,ACH-000328,Glioblastoma
+327,ACH-000329,Astrocytoma
+328,ACH-000330,Breast Invasive Ductal Carcinoma
+329,ACH-000331,"Pleural Mesothelioma, Epithelioid Type"
+330,ACH-000332,Pancreatic Adenocarcinoma
+331,ACH-000333,Mucinous Ovarian Cancer
+332,ACH-000334,"Diffuse Large B-Cell Lymphoma, NOS"
+333,ACH-000335,"Pleural Mesothelioma, Biphasic Type"
+334,ACH-000336,Acute Myeloid Leukemia
+335,ACH-000337,Lung Adenocarcinoma
+336,ACH-000338,Anaplastic Large-Cell Lymphoma ALK Positive
+337,ACH-000339,Lung Adenocarcinoma
+338,ACH-000340,"Fibroblast, Bone"
+339,ACH-000341,Neuroblastoma
+340,ACH-000342,Colon Adenocarcinoma
+341,ACH-000343,Lung Adenocarcinoma
+342,ACH-000344,Diffuse Type Stomach Adenocarcinoma
+343,ACH-000345,Neuroblastoma
+344,ACH-000346,B-Cell Prolymphocytic Leukemia
+345,ACH-000347,Pancreatic Neuroendocrine Tumor
+346,ACH-000348,Melanoma
+347,ACH-000349,Breast Ductal Carcinoma In Situ
+348,ACH-000350,Colon Adenocarcinoma
+349,ACH-000351,Adenosquamous Carcinoma of the Stomach
+350,ACH-000352,Invasive Breast Carcinoma
+351,ACH-000353,Esophageal Squamous Cell Carcinoma
+352,ACH-000354,Pancreatic Adenocarcinoma
+353,ACH-000355,Small Cell Lung Cancer
+354,ACH-000356,Diffuse Type Stomach Adenocarcinoma
+355,ACH-000357,Mantle Cell Lymphoma
+356,ACH-000358,Small Cell Lung Cancer
+357,ACH-000359,Osteosarcoma
+358,ACH-000360,Colon Adenocarcinoma
+359,ACH-000361,Hepatocellular Carcinoma
+360,ACH-000362,Acute Myeloid Leukemia
+361,ACH-000363,Plasma Cell Myeloma
+362,ACH-000364,Osteosarcoma
+363,ACH-000365,"Diffuse Large B-Cell Lymphoma, NOS"
+364,ACH-000366,Neuroblastoma
+365,ACH-000367,"Pleural Mesothelioma, Epithelioid Type"
+366,ACH-000368,Glioblastoma
+367,ACH-000369,Acute Myeloid Leukemia
+368,ACH-000370,Glioblastoma
+369,ACH-000371,"Diffuse Large B-Cell Lymphoma, NOS"
+370,ACH-000372,T-Cell Acute Lymphoblastic Leukemia
+371,ACH-000373,Acute Myeloid Leukemia
+372,ACH-000374,Breast Invasive Ductal Carcinoma
+373,ACH-000375,Rhabdoid Cancer
+374,ACH-000376,Glioblastoma
+375,ACH-000377,Ampullary Carcinoma
+376,ACH-000378,Lung Adenosquamous Carcinoma
+377,ACH-000379,Lung Adenocarcinoma
+378,ACH-000380,Plasma Cell Myeloma
+379,ACH-000381,Colon Adenocarcinoma
+380,ACH-000382,Small Cell Lung Cancer
+381,ACH-000383,Esophageal Adenocarcinoma
+382,ACH-000384,Bladder Urothelial Carcinoma
+383,ACH-000385,Renal Cell Carcinoma
+384,ACH-000386,Acute Myeloid Leukemia
+385,ACH-000387,"AML, NOS"
+386,ACH-000388,"Diffuse Large B-Cell Lymphoma, NOS"
+387,ACH-000389,Astrocytoma
+388,ACH-000390,Lung Squamous Cell Carcinoma
+389,ACH-000391,Ewing Sarcoma
+390,ACH-000392,Lung Adenocarcinoma
+391,ACH-000393,Hepatocellular Carcinoma
+392,ACH-000394,Small Cell Lung Cancer
+393,ACH-000395,Lung Squamous Cell Carcinoma
+394,ACH-000396,Bladder Urothelial Carcinoma
+395,ACH-000397,Uterine Clear Cell Carcinoma
+396,ACH-000398,Activated B-cell Type
+397,ACH-000399,Small Cell Lung Cancer
+398,ACH-000400,Colon Adenocarcinoma
+399,ACH-000401,Cutaneous Melanoma
+400,ACH-000402,Burkitt Lymphoma
+401,ACH-000403,Colon Adenocarcinoma
+402,ACH-000404,Cutaneous Melanoma
+403,ACH-000405,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+404,ACH-000406,Acute Myeloid Leukemia
+405,ACH-000407,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+406,ACH-000408,Esophageal Squamous Cell Carcinoma
+407,ACH-000409,High-Grade Serous Ovarian Cancer
+408,ACH-000410,Osteosarcoma
+409,ACH-000411,Renal Clear Cell Carcinoma
+410,ACH-000412,Colon Adenocarcinoma
+411,ACH-000413,"Fibroblast, Breast"
+412,ACH-000414,Lung Adenocarcinoma
+413,ACH-000415,Hypopharynx Squamous Cell Carcinoma
+414,ACH-000416,Lung Adenocarcinoma
+415,ACH-000417,Pancreatic Adenocarcinoma
+416,ACH-000418,Chondrosarcoma
+417,ACH-000419,Plasma Cell Myeloma
+418,ACH-000420,Hepatocellular Carcinoma
+419,ACH-000421,Rectal Adenocarcinoma
+420,ACH-000422,Hepatocellular Carcinoma
+421,ACH-000423,Cutaneous Melanoma
+422,ACH-000424,Ewing Sarcoma
+423,ACH-000425,Melanoma
+424,ACH-000426,Plasma Cell Myeloma
+425,ACH-000427,Tubular Stomach Adenocarcinoma
+426,ACH-000428,Renal Cell Carcinoma
+427,ACH-000429,Renal Cell Carcinoma
+428,ACH-000430,High-Grade Serous Ovarian Cancer
+429,ACH-000431,Small Cell Lung Cancer
+430,ACH-000432,B-Cell Acute Lymphoblastic Leukemia
+431,ACH-000433,Renal Clear Cell Carcinoma
+432,ACH-000434,Large Cell Lung Carcinoma
+433,ACH-000435,Endometrial Carcinoma
+434,ACH-000436,Plasma Cell Myeloma
+435,ACH-000437,Astrocytoma
+436,ACH-000438,Giant Cell Carcinoma of the Lung
+437,ACH-000439,Acute Myeloid Leukemia
+438,ACH-000440,Burkitt Lymphoma
+439,ACH-000441,Melanoma
+440,ACH-000442,Lung Squamous Cell Carcinoma
+441,ACH-000443,High-Grade Serous Ovarian Cancer
+442,ACH-000444,Giant Cell Carcinoma of the Lung
+443,ACH-000445,Glioblastoma
+444,ACH-000446,Neuroblastoma
+445,ACH-000447,Lung Adenocarcinoma
+446,ACH-000448,Lung Adenocarcinoma
+447,ACH-000449,Uterine Sarcoma/Mesenchymal
+448,ACH-000450,Melanoma
+449,ACH-000451,Lung Adenocarcinoma
+450,ACH-000452,Esophageal Squamous Cell Carcinoma
+451,ACH-000453,Plasma Cell Myeloma
+452,ACH-000454,Lung Squamous Cell Carcinoma
+453,ACH-000455,Glioblastoma
+454,ACH-000456,Poorly Differentiated Thyroid Cancer
+455,ACH-000457,Renal Cell Carcinoma
+456,ACH-000458,Melanoma
+457,ACH-000459,Renal Clear Cell Carcinoma
+458,ACH-000460,Serous Ovarian Cancer
+459,ACH-000461,Extrahepatic Cholangiocarcinoma
+460,ACH-000462,"Chronic Myeloid Leukemia, BCR-ABL1+"
+461,ACH-000463,Large Cell Lung Carcinoma
+462,ACH-000464,Glioblastoma
+463,ACH-000465,Melanoma
+464,ACH-000466,Tubular Stomach Adenocarcinoma
+465,ACH-000467,Colon Adenocarcinoma
+466,ACH-000468,Pancreatic Adenocarcinoma
+467,ACH-000469,Glioblastoma
+468,ACH-000470,Rectal Adenocarcinoma
+469,ACH-000471,Hepatocellular Carcinoma
+470,ACH-000472,Oral Cavity Squamous Cell Carcinoma
+471,ACH-000473,Bladder Urothelial Carcinoma
+472,ACH-000475,Hepatocellular Carcinoma
+473,ACH-000476,Hepatocellular Carcinoma
+474,ACH-000477,Melanoma
+475,ACH-000478,Hepatocellular Carcinoma
+476,ACH-000479,Glioblastoma
+477,ACH-000480,Hepatocellular Carcinoma
+478,ACH-000481,Lung Squamous Cell Carcinoma
+479,ACH-000482,Lung Adenocarcinoma
+480,ACH-000483,Hepatocellular Carcinoma
+481,ACH-000484,Renal Cell Carcinoma
+482,ACH-000485,Stomach Adenocarcinoma
+483,ACH-000486,Bladder Urothelial Carcinoma
+484,ACH-000487,"AML, NOS"
+485,ACH-000488,Esophageal Squamous Cell Carcinoma
+486,ACH-000489,Colon Adenocarcinoma
+487,ACH-000490,Cervical Squamous Cell Carcinoma
+488,ACH-000491,Colon Adenocarcinoma
+489,ACH-000492,B-Cell Acute Lymphoblastic Leukemia
+490,ACH-000493,Hepatocellular Carcinoma
+491,ACH-000494,Immortalized Ovarian Cells
+492,ACH-000495,Renal Cell Carcinoma
+493,ACH-000496,Lung Adenocarcinoma
+494,ACH-000498,Acute Myeloid Leukemia
+495,ACH-000499,Ewing Sarcoma
+496,ACH-000500,Larynx Squamous Cell Carcinoma
+497,ACH-000501,Colon Adenocarcinoma
+498,ACH-000502,Pancreatic Adenocarcinoma
+499,ACH-000503,Oral Cavity Squamous Cell Carcinoma
+500,ACH-000504,Glioblastoma
+501,ACH-000505,Leiomyosarcoma
+502,ACH-000506,Small Cell Lung Cancer
+503,ACH-000507,Stomach Adenocarcinoma
+504,ACH-000508,Small Cell Lung Cancer
+505,ACH-000509,Sezary Syndrome
+506,ACH-000510,Large Cell Lung Carcinoma
+507,ACH-000511,Lung Squamous Cell Carcinoma
+508,ACH-000512,Plasma Cell Myeloma
+509,ACH-000513,Renal Clear Cell Carcinoma
+510,ACH-000514,Small Cell Lung Cancer
+511,ACH-000515,Small Cell Lung Cancer
+512,ACH-000516,Dedifferentiated Chondrosarcoma
+513,ACH-000517,Pancreatic Adenocarcinoma
+514,ACH-000518,Oral Cavity Squamous Cell Carcinoma
+515,ACH-000519,T-Cell Acute Lymphoblastic Leukemia
+516,ACH-000520,High-Grade Serous Ovarian Cancer
+517,ACH-000521,Lung Adenocarcinoma
+518,ACH-000522,Bladder Urothelial Carcinoma
+519,ACH-000523,Small Cell Lung Cancer
+520,ACH-000524,High-Grade Serous Ovarian Cancer
+521,ACH-000525,Small Cell Lung Cancer
+522,ACH-000526,"Fibroblast, Bone"
+523,ACH-000527,Clear Cell Ovarian Cancer
+524,ACH-000528,Lung Adenocarcinoma
+525,ACH-000529,"Fibroblast, Bone"
+526,ACH-000530,SMARCA4-deficient undifferentiated tumor
+527,ACH-000531,"Fibroblast, Lung"
+528,ACH-000532,Rectal Adenocarcinoma
+529,ACH-000533,Rhabdoid Cancer
+530,ACH-000534,"Diffuse Large B-Cell Lymphoma, NOS"
+531,ACH-000535,Pancreatic Adenocarcinoma
+532,ACH-000536,Breast Invasive Ductal Carcinoma
+533,ACH-000537,Hepatocellular Carcinoma
+534,ACH-000538,Duodenal Adenocarcinoma
+535,ACH-000539,"Fibroblast, Lung"
+536,ACH-000540,"Fibroblast, Breast"
+537,ACH-000541,Plasma Cell Myeloma
+538,ACH-000542,High-Grade Serous Ovarian Cancer
+539,ACH-000543,Glioblastoma
+540,ACH-000544,Esophageal Squamous Cell Carcinoma
+541,ACH-000545,Bladder Urothelial Carcinoma
+542,ACH-000546,Oral Cavity Squamous Cell Carcinoma
+543,ACH-000547,Bladder Urothelial Carcinoma
+544,ACH-000548,Oral Cavity Squamous Cell Carcinoma
+545,ACH-000549,Larynx Squamous Cell Carcinoma
+546,ACH-000550,Melanoma
+547,ACH-000551,"Chronic Myeloid Leukemia, BCR-ABL1+"
+548,ACH-000552,Colon Adenocarcinoma
+549,ACH-000553,Lung Squamous Cell Carcinoma
+550,ACH-000554,Breast Invasive Lobular Carcinoma
+551,ACH-000555,Renal Cell Carcinoma
+552,ACH-000556,Cervical Squamous Cell Carcinoma
+553,ACH-000557,AML with Myelodysplasia-Related Changes
+554,ACH-000558,Glioblastoma
+555,ACH-000559,Small Cell Lung Cancer
+556,ACH-000560,Small Cell Carcinoma of the Stomach
+557,ACH-000561,Esophageal Squamous Cell Carcinoma
+558,ACH-000562,Lung Adenocarcinoma
+559,ACH-000563,Lung Squamous Cell Carcinoma
+560,ACH-000564,Plasma Cell Myeloma
+561,ACH-000565,Rectal Adenocarcinoma
+562,ACH-000566,Bladder Urothelial Carcinoma
+563,ACH-000567,Burkitt Lymphoma
+564,ACH-000568,Breast Invasive Lobular Carcinoma
+565,ACH-000569,"Pleural Mesothelioma, Epithelioid Type"
+566,ACH-000570,Glioblastoma
+567,ACH-000571,Glioblastoma
+568,ACH-000572,Melanoma
+569,ACH-000573,"Breast Invasive Carcinoma, NOS"
+570,ACH-000574,High-Grade Serous Ovarian Cancer
+571,ACH-000575,Lung Adenocarcinoma
+572,ACH-000576,Plasma Cell Myeloma
+573,ACH-000577,Hepatocellular Carcinoma
+574,ACH-000578,Lung Adenocarcinoma
+575,ACH-000579,Melanoma
+576,ACH-000580,Melanoma
+577,ACH-000581,Stomach Adenocarcinoma
+578,ACH-000582,Melanoma
+579,ACH-000583,Mature B-Cell Neoplasms
+580,ACH-000584,High-Grade Serous Ovarian Cancer
+581,ACH-000585,Lung Squamous Cell Carcinoma
+582,ACH-000586,Small Cell Lung Cancer
+583,ACH-000587,Lung Adenocarcinoma
+584,ACH-000588,Plasma Cell Myeloma
+585,ACH-000589,Lung Adenocarcinoma
+586,ACH-000590,Lung Adenocarcinoma
+587,ACH-000591,Astrocytoma
+588,ACH-000592,Astrocytoma
+589,ACH-000593,Bladder Urothelial Carcinoma
+590,ACH-000594,Small Cell Lung Cancer
+591,ACH-000595,Glioblastoma
+592,ACH-000596,Large Cell Lung Carcinoma
+593,ACH-000597,Extrarenal Rhabdoid Cancer
+594,ACH-000598,Plasma Cell Myeloma
+595,ACH-000599,Pancreatic Adenocarcinoma
+596,ACH-000600,Renal Clear Cell Carcinoma
+597,ACH-000601,Pancreatic Adenocarcinoma
+598,ACH-000602,Acute Myeloid Leukemia
+599,ACH-000603,Non-Small Cell Lung Cancer
+600,ACH-000604,"Chronic Myeloid Leukemia, BCR-ABL1+"
+601,ACH-000605,Esophageal Squamous Cell Carcinoma
+602,ACH-000606,Oral Cavity Squamous Cell Carcinoma
+603,ACH-000607,Rhabdoid Cancer
+604,ACH-000608,Mucinous Ovarian Cancer
+605,ACH-000609,Glioblastoma
+606,ACH-000610,Small Cell Lung Cancer
+607,ACH-000611,"Diffuse Large B-Cell Lymphoma, NOS"
+608,ACH-000612,Mycosis Fungoides
+609,ACH-000613,Osteosarcoma
+610,ACH-000614,Melanoma
+611,ACH-000615,Cutaneous Melanoma
+612,ACH-000616,Stomach Adenocarcinoma
+613,ACH-000617,High-Grade Serous Ovarian Cancer
+614,ACH-000618,Hypopharynx Squamous Cell Carcinoma
+615,ACH-000619,Oral Cavity Squamous Cell Carcinoma
+616,ACH-000620,Hepatocellular Carcinoma
+617,ACH-000621,Breast Invasive Ductal Carcinoma
+618,ACH-000622,Glioblastoma
+619,ACH-000623,Glioblastoma
+620,ACH-000624,Breast Ductal Carcinoma In Situ
+621,ACH-000625,Hepatocellular Carcinoma
+622,ACH-000626,Plasma Cell Myeloma
+623,ACH-000627,Large Cell Lung Carcinoma
+624,ACH-000628,Lung Adenosquamous Carcinoma
+625,ACH-000629,Meningioma
+626,ACH-000630,Oral Cavity Squamous Cell Carcinoma
+627,ACH-000631,Glioblastoma
+628,ACH-000632,Cutaneous Melanoma
+629,ACH-000633,Diffuse Type Stomach Adenocarcinoma
+630,ACH-000634,Glioblastoma
+631,ACH-000635,High-Grade Serous Ovarian Cancer
+632,ACH-000636,T-Cell Acute Lymphoblastic Leukemia
+633,ACH-000637,Esophageal Squamous Cell Carcinoma
+634,ACH-000638,Lung Adenocarcinoma
+635,ACH-000639,Small Cell Lung Cancer
+636,ACH-000640,Cutaneous Melanoma
+637,ACH-000641,Myeloid Leukemia Associated with Down Syndrome
+638,ACH-000642,Immortalized Breast Cells
+639,ACH-000643,Breast Invasive Ductal Carcinoma
+640,ACH-000644,Cutaneous Melanoma
+641,ACH-000645,"Pleural Mesothelioma, Epithelioid Type"
+642,ACH-000646,Clear Cell Ovarian Cancer
+643,ACH-000647,Esophageal Squamous Cell Carcinoma
+644,ACH-000648,"Pleural Mesothelioma, Epithelioid Type"
+645,ACH-000649,Renal Clear Cell Carcinoma
+646,ACH-000650,Melanoma
+647,ACH-000651,Colon Adenocarcinoma
+648,ACH-000652,Pancreatic Adenocarcinoma
+649,ACH-000653,Plasma Cell Myeloma
+650,ACH-000654,Non-Hodgkin Lymphoma
+651,ACH-000655,Astrocytoma
+652,ACH-000656,"Diffuse Large B-Cell Lymphoma, NOS"
+653,ACH-000657,Endometrioid Ovarian Cancer
+654,ACH-000658,Plasma Cell Myeloma
+655,ACH-000659,Small Cell Lung Cancer
+656,ACH-000660,"Diffuse Large B-Cell Lymphoma, NOS"
+657,ACH-000661,Melanoma
+658,ACH-000662,Large Cell Lung Carcinoma
+659,ACH-000663,Clear Cell Ovarian Cancer
+660,ACH-000664,Anaplastic Large-Cell Lymphoma ALK Positive
+661,ACH-000665,Lung Squamous Cell Carcinoma
+662,ACH-000666,Lung Adenocarcinoma
+663,ACH-000667,Lung Adenocarcinoma
+664,ACH-000668,Breast Invasive Ductal Carcinoma
+665,ACH-000669,Lung Squamous Cell Carcinoma
+666,ACH-000670,Small Cell Lung Cancer
+667,ACH-000671,Hepatoblastoma
+668,ACH-000672,Large Cell Lung Carcinoma
+669,ACH-000673,Glioblastoma
+670,ACH-000674,Diffuse Type Stomach Adenocarcinoma
+671,ACH-000675,Lung Adenocarcinoma
+672,ACH-000676,Melanoma
+673,ACH-000677,Lung Adenocarcinoma
+674,ACH-000678,Tubular Stomach Adenocarcinoma
+675,ACH-000679,Esophageal Squamous Cell Carcinoma
+676,ACH-000680,Colon Adenocarcinoma
+677,ACH-000681,Lung Adenocarcinoma
+678,ACH-000682,Larynx Squamous Cell Carcinoma
+679,ACH-000683,Rectal Adenocarcinoma
+680,ACH-000684,Renal Clear Cell Carcinoma
+681,ACH-000685,Adenosquamous Carcinoma of the Pancreas
+682,ACH-000686,Hepatocellular Carcinoma
+683,ACH-000687,Mature B-Cell Neoplasms
+684,ACH-000688,Mixed Ovarian Carcinoma
+685,ACH-000689,Embryonal Rhabdomyosarcoma
+686,ACH-000690,Lung Squamous Cell Carcinoma
+687,ACH-000691,Breast Invasive Ductal Carcinoma
+688,ACH-000692,Larynx Squamous Cell Carcinoma
+689,ACH-000693,Esophageal Squamous Cell Carcinoma
+690,ACH-000694,Esophageal Squamous Cell Carcinoma
+691,ACH-000695,Small Cell Lung Cancer
+692,ACH-000696,High-Grade Serous Ovarian Cancer
+693,ACH-000697,"Diffuse Large B-Cell Lymphoma, NOS"
+694,ACH-000698,Small Cell Lung Cancer
+695,ACH-000699,Breast Invasive Ductal Carcinoma
+696,ACH-000700,Lung Squamous Cell Carcinoma
+697,ACH-000701,Mucinous Ovarian Cancer
+698,ACH-000702,Hodgkin Lymphoma
+699,ACH-000703,Small Cell Lung Cancer
+700,ACH-000704,Serous Ovarian Cancer
+701,ACH-000705,Lung Squamous Cell Carcinoma
+702,ACH-000706,Lung Adenocarcinoma
+703,ACH-000707,Burkitt Lymphoma
+704,ACH-000708,Rectal Adenocarcinoma
+705,ACH-000709,Renal Clear Cell Carcinoma
+706,ACH-000710,Colon Adenocarcinoma
+707,ACH-000711,Breast Invasive Ductal Carcinoma
+708,ACH-000712,Lung Adenocarcinoma
+709,ACH-000713,High-Grade Serous Ovarian Cancer
+710,ACH-000714,Plasma Cell Myeloma
+711,ACH-000715,Larynx Squamous Cell Carcinoma
+712,ACH-000716,Follicular Thyroid Cancer
+713,ACH-000717,Esophageal Squamous Cell Carcinoma
+714,ACH-000718,Lung Adenocarcinoma
+715,ACH-000719,Clear Cell Ovarian Cancer
+716,ACH-000720,Bladder Urothelial Carcinoma
+717,ACH-000721,Breast Invasive Ductal Carcinoma
+718,ACH-000722,Colon Adenocarcinoma
+719,ACH-000723,Oral Cavity Squamous Cell Carcinoma
+720,ACH-000724,Bladder Urothelial Carcinoma
+721,ACH-000725,Breast Ductal Carcinoma In Situ
+722,ACH-000726,Esophageal Squamous Cell Carcinoma
+723,ACH-000727,Small Cell Lung Cancer
+724,ACH-000728,B-Cell Acute Lymphoblastic Leukemia
+725,ACH-000729,Small Cell Lung Cancer
+726,ACH-000730,Cutaneous Melanoma
+727,ACH-000731,Lung Adenosquamous Carcinoma
+728,ACH-000732,Oral Cavity Squamous Cell Carcinoma
+729,ACH-000733,Lung Adenocarcinoma
+730,ACH-000734,Hepatocellular Carcinoma
+731,ACH-000735,Oral Cavity Squamous Cell Carcinoma
+732,ACH-000736,Signet Ring Cell Carcinoma of the Stomach
+733,ACH-000737,Lung Squamous Cell Carcinoma
+734,ACH-000738,Glioblastoma
+735,ACH-000739,Hepatoblastoma
+736,ACH-000740,Oral Cavity Squamous Cell Carcinoma
+737,ACH-000741,Bladder Urothelial Carcinoma
+738,ACH-000742,"Fibroblast, Lung"
+739,ACH-000743,Small Cell Lung Cancer
+740,ACH-000744,Lung Adenocarcinoma
+741,ACH-000745,Plasma Cell Myeloma
+742,ACH-000746,Stomach Adenocarcinoma
+743,ACH-000747,Lung Squamous Cell Carcinoma
+744,ACH-000748,Osteosarcoma
+745,ACH-000749,Small Cell Lung Cancer
+746,ACH-000750,Melanoma
+747,ACH-000751,Acute Myeloid Leukemia
+748,ACH-000752,SMARCA4-deficient undifferentiated tumor
+749,ACH-000753,Bladder Urothelial Carcinoma
+750,ACH-000754,Hodgkin Lymphoma
+751,ACH-000755,Breast Ductal Carcinoma In Situ
+752,ACH-000756,Gliosarcoma
+753,ACH-000757,Lung Adenocarcinoma
+754,ACH-000758,Tubular Stomach Adenocarcinoma
+755,ACH-000759,Breast Invasive Ductal Carcinoma
+756,ACH-000760,Glioblastoma
+757,ACH-000761,Stomach Adenocarcinoma
+758,ACH-000762,Head and Neck Squamous Cell Carcinoma
+759,ACH-000763,Plasma Cell Myeloma
+760,ACH-000764,Mucinous Stomach Adenocarcinoma
+761,ACH-000765,Melanoma
+762,ACH-000766,Lung Adenocarcinoma
+763,ACH-000767,Small Cell Lung Cancer
+764,ACH-000768,Invasive Breast Carcinoma
+765,ACH-000769,Lung Squamous Cell Carcinoma
+766,ACH-000770,Acute Myeloid Leukemia
+767,ACH-000771,Oral Cavity Squamous Cell Carcinoma
+768,ACH-000772,CIC-DUX4 Sarcoma
+769,ACH-000773,Anaplastic Large-Cell Lymphoma ALK Positive
+770,ACH-000774,Lung Adenocarcinoma
+771,ACH-000775,Lung Carcinoid
+772,ACH-000776,Medulloblastoma
+773,ACH-000777,Esophageal Squamous Cell Carcinoma
+774,ACH-000778,Oral Cavity Squamous Cell Carcinoma
+775,ACH-000779,Lung Adenocarcinoma
+776,ACH-000780,Small Cell Lung Cancer
+777,ACH-000781,Lung Adenocarcinoma
+778,ACH-000782,B-Cell Acute Lymphoblastic Leukemia
+779,ACH-000783,Breast Invasive Lobular Carcinoma
+780,ACH-000784,Esophageal Squamous Cell Carcinoma
+781,ACH-000785,Lung Adenocarcinoma
+782,ACH-000786,Burkitt Lymphoma
+783,ACH-000787,Lung Adenocarcinoma
+784,ACH-000788,Melanoma
+785,ACH-000789,Large Cell Lung Carcinoma
+786,ACH-000790,Small Cell Lung Cancer
+787,ACH-000791,Lung Adenocarcinoma
+788,ACH-000792,Renal Cell Carcinoma
+789,ACH-000793,Signet Ring Cell Carcinoma of the Stomach
+790,ACH-000794,Oral Cavity Squamous Cell Carcinoma
+791,ACH-000795,T-Cell Acute Lymphoblastic Leukemia
+792,ACH-000796,Mucinous Ovarian Cancer
+793,ACH-000797,"Fibroblast, Lung"
+794,ACH-000798,Colon Adenocarcinoma
+795,ACH-000799,Melanoma
+796,ACH-000800,Small Cell Lung Cancer
+797,ACH-000801,Melanoma
+798,ACH-000802,Bladder Urothelial Carcinoma
+799,ACH-000803,Small Cell Lung Cancer
+800,ACH-000804,Neuroblastoma
+801,ACH-000805,Cutaneous Melanoma
+802,ACH-000806,Hodgkin Lymphoma
+803,ACH-000807,Oligodendroglioma
+804,ACH-000808,Intrahepatic Cholangiocarcinoma
+805,ACH-000809,Esophageal Squamous Cell Carcinoma
+806,ACH-000810,Cutaneous Melanoma
+807,ACH-000811,Serous Ovarian Cancer
+808,ACH-000812,Melanoma
+809,ACH-000813,Large Cell Lung Carcinoma
+810,ACH-000814,Melanoma
+811,ACH-000815,Hodgkin Lymphoma
+812,ACH-000816,Small Cell Lung Cancer
+813,ACH-000817,Plasma Cell Myeloma
+814,ACH-000818,Breast Invasive Ductal Carcinoma
+815,ACH-000819,Glioblastoma
+816,ACH-000820,Colon Adenocarcinoma
+817,ACH-000821,Plasma Cell Myeloma
+818,ACH-000822,Melanoma
+819,ACH-000823,Esophageal Squamous Cell Carcinoma
+820,ACH-000824,Esophageal Squamous Cell Carcinoma
+821,ACH-000825,Non-Small Cell Lung Cancer
+822,ACH-000826,Non-Small Cell Lung Cancer
+823,ACH-000827,Melanoma
+824,ACH-000828,Breast Invasive Lobular Carcinoma
+825,ACH-000829,Plasma Cell Myeloma
+826,ACH-000830,Small Cell Lung Cancer
+827,ACH-000831,Endometrial Carcinoma
+828,ACH-000832,Oral Cavity Squamous Cell Carcinoma
+829,ACH-000833,Alveolar Rhabdomyosarcoma
+830,ACH-000834,Bladder Urothelial Carcinoma
+831,ACH-000835,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+832,ACH-000836,Oral Cavity Squamous Cell Carcinoma
+833,ACH-000837,Lung Adenocarcinoma
+834,ACH-000838,Plasma Cell Myeloma
+835,ACH-000839,Bladder Squamous Cell Carcinoma
+836,ACH-000840,Lung Adenosquamous Carcinoma
+837,ACH-000841,Lung Adenocarcinoma
+838,ACH-000842,Colon Adenocarcinoma
+839,ACH-000843,Lung Squamous Cell Carcinoma
+840,ACH-000844,Small Cell Lung Cancer
+841,ACH-000845,Lung Adenocarcinoma
+842,ACH-000846,Hypopharynx Squamous Cell Carcinoma
+843,ACH-000847,Stomach Adenocarcinoma
+844,ACH-000848,Hepatocellular Carcinoma
+845,ACH-000849,Invasive Breast Carcinoma
+846,ACH-000850,"Fibroblast, Colorectal"
+847,ACH-000851,Lung Adenocarcinoma
+848,ACH-000852,Lung Adenocarcinoma
+849,ACH-000853,Large Cell Lung Carcinoma
+850,ACH-000854,Plasma Cell Myeloma
+851,ACH-000855,Esophageal Squamous Cell Carcinoma
+852,ACH-000856,Invasive Breast Carcinoma
+853,ACH-000857,Breast Invasive Ductal Carcinoma
+854,ACH-000858,Lung Squamous Cell Carcinoma
+855,ACH-000859,Breast Ductal Carcinoma In Situ
+856,ACH-000860,Lung Adenocarcinoma
+857,ACH-000861,Lung Adenocarcinoma
+858,ACH-000862,Bladder Urothelial Carcinoma
+859,ACH-000863,Glioblastoma
+860,ACH-000864,Endometrial Carcinoma
+861,ACH-000865,Esophageal Squamous Cell Carcinoma
+862,ACH-000866,Small Cell Lung Cancer
+863,ACH-000867,Non-Small Cell Lung Cancer
+864,ACH-000868,Lung Adenosquamous Carcinoma
+865,ACH-000869,Lung Adenocarcinoma
+866,ACH-000870,Small Cell Lung Cancer
+867,ACH-000871,Small Cell Lung Cancer
+868,ACH-000872,Lung Adenocarcinoma
+869,ACH-000873,Esophageal Squamous Cell Carcinoma
+870,ACH-000874,B-Cell Acute Lymphoblastic Leukemia
+871,ACH-000875,Lung Adenocarcinoma
+872,ACH-000876,Invasive Breast Carcinoma
+873,ACH-000877,Burkitt Lymphoma
+874,ACH-000878,Lung Squamous Cell Carcinoma
+875,ACH-000879,Endometrial Carcinoma
+876,ACH-000880,Stomach Adenocarcinoma
+877,ACH-000881,Cutaneous Melanoma
+878,ACH-000882,Melanoma
+879,ACH-000883,Anaplastic Astrocytoma
+880,ACH-000884,Melanoma
+881,ACH-000885,Clear Cell Ovarian Cancer
+882,ACH-000886,Lung Adenocarcinoma
+883,ACH-000887,Glioblastoma
+884,ACH-000888,Lung Adenocarcinoma
+885,ACH-000889,Plasma Cell Myeloma
+886,ACH-000890,SMARCA4-deficient undifferentiated tumor
+887,ACH-000891,Large Cell Lung Carcinoma
+888,ACH-000892,Lung Adenocarcinoma
+889,ACH-000893,Lung Adenocarcinoma
+890,ACH-000894,Lung Squamous Cell Carcinoma
+891,ACH-000895,Colon Adenocarcinoma
+892,ACH-000896,Bladder Urothelial Carcinoma
+893,ACH-000897,Follicular Thyroid Cancer
+894,ACH-000898,Tubular Stomach Adenocarcinoma
+895,ACH-000899,Melanoma
+896,ACH-000900,Lung Adenocarcinoma
+897,ACH-000901,Giant Cell Carcinoma of the Lung
+898,ACH-000902,Breast Invasive Ductal Carcinoma
+899,ACH-000903,Follicular Thyroid Cancer
+900,ACH-000904,Large Cell Lung Carcinoma
+901,ACH-000905,Bladder Urothelial Carcinoma
+902,ACH-000906,Clear Cell Ovarian Cancer
+903,ACH-000907,Renal Clear Cell Carcinoma
+904,ACH-000908,Stomach Adenocarcinoma
+905,ACH-000909,Endometrial Carcinoma
+906,ACH-000910,Invasive Breast Carcinoma
+907,ACH-000911,Stomach Adenocarcinoma
+908,ACH-000912,Small Cell Lung Cancer
+909,ACH-000913,Endometrial Stromal Sarcoma
+910,ACH-000914,"Diffuse Large B-Cell Lymphoma, NOS"
+911,ACH-000915,Cutaneous Melanoma
+912,ACH-000916,Lung Adenocarcinoma
+913,ACH-000917,Esophageal Squamous Cell Carcinoma
+914,ACH-000918,T-Cell Acute Lymphoblastic Leukemia
+915,ACH-000919,Stomach Adenocarcinoma
+916,ACH-000920,"Chronic Myeloid Leukemia, BCR-ABL1+"
+917,ACH-000921,Lung Squamous Cell Carcinoma
+918,ACH-000922,B-Cell Acute Lymphoblastic Leukemia
+919,ACH-000923,Primary Effusion Lymphoma
+920,ACH-000924,Non-Small Cell Lung Cancer
+921,ACH-000925,Lung Adenocarcinoma
+922,ACH-000926,Colon Adenocarcinoma
+923,ACH-000927,Breast Invasive Ductal Carcinoma
+924,ACH-000928,Endometrial Carcinoma
+925,ACH-000929,Non-Small Cell Lung Cancer
+926,ACH-000930,Breast Invasive Ductal Carcinoma
+927,ACH-000931,Melanoma
+928,ACH-000932,Stomach Adenocarcinoma
+929,ACH-000933,Pancreatic Adenocarcinoma
+930,ACH-000934,Invasive Breast Carcinoma
+931,ACH-000935,Colon Adenocarcinoma
+932,ACH-000936,Mucinous Ovarian Cancer
+933,ACH-000937,T-Cell Acute Lymphoblastic Leukemia
+934,ACH-000938,B-Cell Acute Lymphoblastic Leukemia
+935,ACH-000939,Uterine Leiomyosarcoma
+936,ACH-000940,Endometrial Carcinoma
+937,ACH-000941,Endometrial Carcinoma
+938,ACH-000942,T-Cell Acute Lymphoblastic Leukemia
+939,ACH-000943,Colon Adenocarcinoma
+940,ACH-000944,Burkitt Lymphoma
+941,ACH-000945,Lung Adenocarcinoma
+942,ACH-000946,Endometrial Carcinoma
+943,ACH-000947,Endometrioid Ovarian Cancer
+944,ACH-000948,Stomach Adenocarcinoma
+945,ACH-000949,Stomach Adenocarcinoma
+946,ACH-000950,Colon Adenocarcinoma
+947,ACH-000951,Lung Adenocarcinoma
+948,ACH-000952,Prostate Adenocarcinoma
+949,ACH-000953,T-Cell Acute Lymphoblastic Leukemia
+950,ACH-000954,Endometrial Carcinoma
+951,ACH-000955,Colon Adenocarcinoma
+952,ACH-000956,Prostate Adenocarcinoma
+953,ACH-000957,Colon Adenocarcinoma
+954,ACH-000958,Colon Adenocarcinoma
+955,ACH-000959,Colon Adenocarcinoma
+956,ACH-000960,B-Cell Acute Lymphoblastic Leukemia
+957,ACH-000961,Endometrial Carcinoma
+958,ACH-000962,Serous Ovarian Cancer
+959,ACH-000963,Colon Adenocarcinoma
+960,ACH-000964,T-Cell Acute Lymphoblastic Leukemia
+961,ACH-000965,Uterine Adenosquamous Carcinoma
+962,ACH-000966,Endometrioid Ovarian Cancer
+963,ACH-000967,Colon Adenocarcinoma
+964,ACH-000968,Melanoma
+965,ACH-000969,Colon Adenocarcinoma
+966,ACH-000970,Colon Adenocarcinoma
+967,ACH-000971,Colon Adenocarcinoma
+968,ACH-000972,Endometrial Carcinoma
+969,ACH-000973,Urethral Urothelial Carcinoma
+970,ACH-000974,Endometrial Carcinoma
+971,ACH-000975,Lung Squamous Cell Carcinoma
+972,ACH-000976,Intrahepatic Cholangiocarcinoma
+973,ACH-000977,Prostate Adenocarcinoma
+974,ACH-000978,Endometrial Carcinoma
+975,ACH-000979,Prostate Adenocarcinoma
+976,ACH-000980,Large Cell Lung Carcinoma
+977,ACH-000981,T-Cell Acute Lymphoblastic Leukemia
+978,ACH-000982,Colon Adenocarcinoma
+979,ACH-000983,"Chronic Myeloid Leukemia, BCR-ABL1+"
+980,ACH-000984,Uterine Adenosquamous Carcinoma
+981,ACH-000985,Colon Adenocarcinoma
+982,ACH-000986,Colon Adenocarcinoma
+983,ACH-000987,Cutaneous Melanoma
+984,ACH-000988,Uterine Adenosquamous Carcinoma
+985,ACH-000989,Mucinous Adenocarcinoma of the Colon and Rectum
+986,ACH-000990,Endometrial Carcinoma
+987,ACH-000991,Colon Adenocarcinoma
+988,ACH-000992,Larynx Squamous Cell Carcinoma
+989,ACH-000993,Endometrial Carcinoma
+990,ACH-000994,Endometrial Carcinoma
+991,ACH-000995,T-Cell Acute Lymphoblastic Leukemia
+992,ACH-000996,Endometrial Carcinoma
+993,ACH-000997,Colon Adenocarcinoma
+994,ACH-000998,Colon Adenocarcinoma
+995,ACH-000999,Colon Adenocarcinoma
+996,ACH-001000,Astrocytoma
+997,ACH-001001,Osteosarcoma
+998,ACH-001002,Cutaneous Melanoma
+999,ACH-001007,Ewing Sarcoma
+1000,ACH-001008,Ewing Sarcoma
+1001,ACH-001009,Ewing Sarcoma
+1002,ACH-001010,Ewing Sarcoma
+1003,ACH-001015,Duodenal Adenocarcinoma
+1004,ACH-001016,Astrocytoma
+1005,ACH-001017,Endocervical Adenocarcinoma
+1006,ACH-001018,"Fibroblast, NOS"
+1007,ACH-001019,Merkel Cell Carcinoma
+1008,ACH-001020,Atypical Teratoid/Rhabdoid Tumor
+1009,ACH-001021,Hepatoblastoma
+1010,ACH-001022,Ewing Sarcoma
+1011,ACH-001023,Head and Neck Squamous Cell Carcinoma
+1012,ACH-001024,Melanoma
+1013,ACH-001028,Atypical Teratoid/Rhabdoid Tumor
+1014,ACH-001029,Ewing Sarcoma
+1015,ACH-001030,Ewing Sarcoma
+1016,ACH-001031,Atypical Teratoid/Rhabdoid Tumor
+1017,ACH-001032,Ewing Sarcoma
+1018,ACH-001033,Primitive Neuroectodermal Tumor
+1019,ACH-001034,Ewing Sarcoma
+1020,ACH-001035,Ewing Sarcoma
+1021,ACH-001036,Myeloid Leukemia Associated with Down Syndrome
+1022,ACH-001037,Myeloid Leukemia Associated with Down Syndrome
+1023,ACH-001038,Ewing Sarcoma
+1024,ACH-001039,Colon Adenocarcinoma
+1025,ACH-001041,Melanoma
+1026,ACH-001042,Endometrial Carcinoma
+1027,ACH-001043,Plasma Cell Myeloma
+1028,ACH-001044,Cutaneous Melanoma
+1029,ACH-001045,Cutaneous Melanoma
+1030,ACH-001046,Small Cell Lung Cancer
+1031,ACH-001047,Small Cell Lung Cancer
+1032,ACH-001048,Serous Ovarian Cancer
+1033,ACH-001049,Small Cell Lung Cancer
+1034,ACH-001050,Alveolar Rhabdomyosarcoma
+1035,ACH-001052,Medulloblastoma
+1036,ACH-001053,Medulloblastoma
+1037,ACH-001054,Medulloblastoma
+1038,ACH-001055,Medulloblastoma
+1039,ACH-001057,Hepatosplenic T-cell Lymphoma
+1040,ACH-001059,Extrarenal Rhabdoid Cancer
+1041,ACH-001060,Anaplastic Large-Cell Lymphoma ALK Negative
+1042,ACH-001061,Colon Adenocarcinoma
+1043,ACH-001063,Serous Ovarian Cancer
+1044,ACH-001064,Burkitt Lymphoma
+1045,ACH-001065,Breast Invasive Lobular Carcinoma
+1046,ACH-001066,Ewing Sarcoma
+1047,ACH-001067,Meningioma
+1048,ACH-001068,Anaplastic Large-Cell Lymphoma ALK Negative
+1049,ACH-001071,Endocervical Adenocarcinoma
+1050,ACH-001072,Pancreatic Adenocarcinoma
+1051,ACH-001075,Mucoepidermoid Carcinoma of the Lung
+1052,ACH-001079,Lung Squamous Cell Carcinoma
+1053,ACH-001081,Colon Adenocarcinoma
+1054,ACH-001084,Colon Adenocarcinoma
+1055,ACH-001085,Transformed cell line
+1056,ACH-001086,Endocervical Adenocarcinoma
+1057,ACH-001087,Immortalized Embyonic Kidney Cells
+1058,ACH-001088,Lung Adenocarcinoma
+1059,ACH-001089,Hepatocellular Carcinoma
+1060,ACH-001090,Oral Cavity Squamous Cell Carcinoma
+1061,ACH-001091,Colon Adenocarcinoma
+1062,ACH-001093,"Fibroblast, Lymphoid"
+1063,ACH-001094,Osteosarcoma
+1064,ACH-001096,Alveolar Rhabdomyosarcoma
+1065,ACH-001097,Non-Hodgkin Lymphoma
+1066,ACH-001098,Pancreatic Adenocarcinoma
+1067,ACH-001099,Extrarenal Rhabdoid Cancer
+1068,ACH-001100,Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma (NKCLL)
+1069,ACH-001101,Pancreatic Adenocarcinoma
+1070,ACH-001106,B-Cell Acute Lymphoblastic Leukemia
+1071,ACH-001107,Pancreatic Adenocarcinoma
+1072,ACH-001109,Rhabdoid Cancer
+1073,ACH-001111,Anaplastic Large-Cell Lymphoma ALK Positive
+1074,ACH-001113,Lung Squamous Cell Carcinoma
+1075,ACH-001118,Glioblastoma
+1076,ACH-001119,Anaplastic Large-Cell Lymphoma ALK Negative
+1077,ACH-001121,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+1078,ACH-001122,Merkel Cell Carcinoma
+1079,ACH-001123,Merkel Cell Carcinoma
+1080,ACH-001125,Anaplastic Astrocytoma
+1081,ACH-001126,Anaplastic Astrocytoma
+1082,ACH-001127,T-Cell Acute Lymphoblastic Leukemia
+1083,ACH-001128,Extrarenal Rhabdoid Cancer
+1084,ACH-001129,Acute Monoblastic/Monocytic Leukemia
+1085,ACH-001130,T-Cell Large Granular Lymphocytic Leukemia
+1086,ACH-001131,Merkel Cell Carcinoma
+1087,ACH-001132,Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma (NKCLL)
+1088,ACH-001134,Non-Hodgkin Lymphoma
+1089,ACH-001136,Small Cell Lung Cancer
+1090,ACH-001137,Lung Adenocarcinoma
+1091,ACH-001138,Small Cell Lung Cancer
+1092,ACH-001142,"Immortalized Epithelial Cells, CNS"
+1093,ACH-001143,Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma (NKCLL)
+1094,ACH-001144,Serous Ovarian Cancer
+1095,ACH-001145,Serous Ovarian Cancer
+1096,ACH-001146,Activated B-cell Type
+1097,ACH-001147,Follicular T-Cell Lymphoma
+1098,ACH-001148,"Diffuse Large B-Cell Lymphoma, NOS"
+1099,ACH-001150,Chondrosarcoma
+1100,ACH-001151,High-Grade Serous Ovarian Cancer
+1101,ACH-001162,Plasma Cell Myeloma
+1102,ACH-001163,Renal Medullary Carcinoma
+1103,ACH-001164,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+1104,ACH-001170,Merkel Cell Carcinoma
+1105,ACH-001171,Pancreatic Adenocarcinoma
+1106,ACH-001172,Astrocytoma
+1107,ACH-001175,Renal Clear Cell Carcinoma
+1108,ACH-001182,B-Cell Acute Lymphoblastic Leukemia
+1109,ACH-001183,Bladder Urothelial Carcinoma
+1110,ACH-001184,Alveolar Rhabdomyosarcoma
+1111,ACH-001188,Neuroblastoma
+1112,ACH-001189,Alveolar Rhabdomyosarcoma
+1113,ACH-001190,Melanoma
+1114,ACH-001192,Ewing Sarcoma
+1115,ACH-001193,Ewing Sarcoma
+1116,ACH-001194,Renal Cell Carcinoma
+1117,ACH-001196,Embryonal Rhabdomyosarcoma
+1118,ACH-001197,Mature T and NK Neoplasms
+1119,ACH-001198,Astrocytoma
+1120,ACH-001199,Colon Adenocarcinoma
+1121,ACH-001200,Rhabdoid Cancer
+1122,ACH-001201,Medulloblastoma
+1123,ACH-001203,Hodgkin Lymphoma
+1124,ACH-001205,Ewing Sarcoma
+1125,ACH-001206,Ewing Sarcoma
+1126,ACH-001207,"Fibroblast, Lung"
+1127,ACH-001208,Renal Clear Cell Carcinoma
+1128,ACH-001209,B-Cell Acute Lymphoblastic Leukemia
+1129,ACH-001210,Rhabdoid Cancer
+1130,ACH-001211,Extrarenal Rhabdoid Cancer
+1131,ACH-001212,Extrarenal Rhabdoid Cancer
+1132,ACH-001214,Glioblastoma
+1133,ACH-001224,Renal Clear Cell Carcinoma
+1134,ACH-001225,Renal Cell Carcinoma
+1135,ACH-001227,Oral Cavity Squamous Cell Carcinoma
+1136,ACH-001228,Oral Cavity Squamous Cell Carcinoma
+1137,ACH-001229,Oral Cavity Squamous Cell Carcinoma
+1138,ACH-001230,Acute Megakaryoblastic Leukemia
+1139,ACH-001232,Medulloblastoma
+1140,ACH-001233,Lung Adenocarcinoma
+1141,ACH-001234,Lung Squamous Cell Carcinoma
+1142,ACH-001239,Melanoma
+1143,ACH-001249,Breast Invasive Ductal Carcinoma
+1144,ACH-001270,Synovial Sarcoma
+1145,ACH-001272,Synovial Sarcoma
+1146,ACH-001274,Synovial Sarcoma
+1147,ACH-001275,Osteosarcoma
+1148,ACH-001277,Synovial Sarcoma
+1149,ACH-001278,Small Cell Carcinoma of the Ovary
+1150,ACH-001279,Small Cell Carcinoma of the Ovary
+1151,ACH-001280,Synovial Sarcoma
+1152,ACH-001282,Ewing Sarcoma
+1153,ACH-001283,Ewing Sarcoma
+1154,ACH-001289,Atypical Teratoid/Rhabdoid Tumor
+1155,ACH-001295,Retinoblastoma
+1156,ACH-001300,Neuroblastoma
+1157,ACH-001301,Neuroblastoma
+1158,ACH-001302,Neuroblastoma
+1159,ACH-001303,Neuroblastoma
+1160,ACH-001306,Anaplastic Thyroid Cancer
+1161,ACH-001307,Anaplastic Thyroid Cancer
+1162,ACH-001310,Immortalized Embyonic Kidney Cells
+1163,ACH-001318,Hepatocellular Carcinoma
+1164,ACH-001321,Medullary Thyroid Cancer
+1165,ACH-001322,Synovial Sarcoma
+1166,ACH-001328,Cutaneous Squamous Cell Carcinoma
+1167,ACH-001329,Glioblastoma
+1168,ACH-001331,Oral Cavity Squamous Cell Carcinoma
+1169,ACH-001332,Oral Cavity Squamous Cell Carcinoma
+1170,ACH-001333,Cervical Squamous Cell Carcinoma
+1171,ACH-001334,Cervical Squamous Cell Carcinoma
+1172,ACH-001335,Cervical Squamous Cell Carcinoma
+1173,ACH-001336,Cervical Squamous Cell Carcinoma
+1174,ACH-001338,Neuroblastoma
+1175,ACH-001339,Cutaneous Melanoma
+1176,ACH-001340,Serous Ovarian Cancer
+1177,ACH-001341,Mixed Cervical Carcinoma
+1178,ACH-001344,Neuroblastoma
+1179,ACH-001345,Colon Adenocarcinoma
+1180,ACH-001346,Oral Cavity Squamous Cell Carcinoma
+1181,ACH-001347,Oral Cavity Squamous Cell Carcinoma
+1182,ACH-001349,Medulloblastoma
+1183,ACH-001350,Anaplastic Thyroid Cancer
+1184,ACH-001353,Pancreatic Adenocarcinoma
+1185,ACH-001354,Neuroblastoma
+1186,ACH-001355,Neuroblastoma
+1187,ACH-001356,Anaplastic Thyroid Cancer
+1188,ACH-001357,Immortalized Breast Cells
+1189,ACH-001358,Breast Invasive Lobular Carcinoma
+1190,ACH-001359,Cervical Squamous Cell Carcinoma
+1191,ACH-001360,Cervical Squamous Cell Carcinoma
+1192,ACH-001362,Non-Small Cell Lung Cancer
+1193,ACH-001363,Non-Small Cell Lung Cancer
+1194,ACH-001364,Small Cell Lung Cancer
+1195,ACH-001365,Small Cell Lung Cancer
+1196,ACH-001366,Neuroblastoma
+1197,ACH-001367,Neuroblastoma
+1198,ACH-001368,Esophageal Adenocarcinoma
+1199,ACH-001369,Clear Cell Ovarian Cancer
+1200,ACH-001370,Serous Ovarian Cancer
+1201,ACH-001373,Serous Ovarian Cancer
+1202,ACH-001374,Mixed Germ Cell Tumor
+1203,ACH-001375,Pancreatic Adenocarcinoma
+1204,ACH-001376,Pancreatic Adenocarcinoma
+1205,ACH-001377,Pancreatic Adenocarcinoma
+1206,ACH-001378,Pancreatic Adenocarcinoma
+1207,ACH-001379,Pancreatic Adenocarcinoma
+1208,ACH-001380,Pancreatic Adenocarcinoma
+1209,ACH-001382,Pancreatic Adenocarcinoma
+1210,ACH-001383,Immortalized Prostate Cells
+1211,ACH-001384,Follicular Thyroid Cancer
+1212,ACH-001385,NUT Midline Carcinoma of the Head and Neck
+1213,ACH-001386,Small Cell Lung Cancer
+1214,ACH-001388,Breast Invasive Ductal Carcinoma
+1215,ACH-001389,Breast Invasive Ductal Carcinoma
+1216,ACH-001390,Breast Invasive Ductal Carcinoma
+1217,ACH-001391,Invasive Breast Carcinoma
+1218,ACH-001392,Invasive Breast Carcinoma
+1219,ACH-001393,Invasive Breast Carcinoma
+1220,ACH-001394,Invasive Breast Carcinoma
+1221,ACH-001395,Breast Invasive Lobular Carcinoma
+1222,ACH-001396,Invasive Breast Carcinoma
+1223,ACH-001397,"Breast Invasive Cancer, NOS"
+1224,ACH-001398,Renal Cell Carcinoma
+1225,ACH-001399,Colon Adenocarcinoma
+1226,ACH-001400,Squamous Cell Carcinoma of the Vulva/Vagina
+1227,ACH-001401,Adrenocortical Carcinoma
+1228,ACH-001402,Cervical Squamous Cell Carcinoma
+1229,ACH-001403,Serous Ovarian Cancer
+1230,ACH-001407,Bladder Urothelial Carcinoma
+1231,ACH-001408,Urethral Urothelial Carcinoma
+1232,ACH-001409,Bladder Urothelial Carcinoma
+1233,ACH-001410,Bladder Urothelial Carcinoma
+1234,ACH-001411,Bladder Squamous Cell Carcinoma
+1235,ACH-001412,Bladder Urothelial Carcinoma
+1236,ACH-001413,Bladder Urothelial Carcinoma
+1237,ACH-001414,Bladder Urothelial Carcinoma
+1238,ACH-001415,Bladder Urothelial Carcinoma
+1239,ACH-001416,Bladder Urothelial Carcinoma
+1240,ACH-001417,Lung Carcinoid
+1241,ACH-001418,Serous Ovarian Cancer
+1242,ACH-001419,Breast Invasive Ductal Carcinoma
+1243,ACH-001421,Retinoblastoma
+1244,ACH-001422,"Immortalized Epithelial Cells, Prostate"
+1245,ACH-001423,Wilms' Tumor
+1246,ACH-001427,Ewing Sarcoma
+1247,ACH-001428,Ewing Sarcoma
+1248,ACH-001430,Ewing Sarcoma
+1249,ACH-001431,Ewing Sarcoma
+1250,ACH-001433,Epithelioid Sarcoma
+1251,ACH-001435,Embryonal Carcinoma
+1252,ACH-001436,Yolk Sac Tumor
+1253,ACH-001437,Embryonal Carcinoma
+1254,ACH-001438,Embryonal Carcinoma
+1255,ACH-001440,Embryonal Carcinoma
+1256,ACH-001441,Uveal Melanoma
+1257,ACH-001442,Cutaneous Squamous Cell Carcinoma
+1258,ACH-001443,Anaplastic Thyroid Cancer
+1259,ACH-001445,Oral Cavity Squamous Cell Carcinoma
+1260,ACH-001447,Burkitt Lymphoma
+1261,ACH-001449,Burkitt Lymphoma
+1262,ACH-001450,Burkitt Lymphoma
+1263,ACH-001451,Cervical Squamous Cell Carcinoma
+1264,ACH-001452,Hairy Cell Leukemia
+1265,ACH-001453,"Hyperplasia, Prostate"
+1266,ACH-001454,Colon Adenocarcinoma
+1267,ACH-001456,Colorectal Adenocarcinoma
+1268,ACH-001458,Colon Adenocarcinoma
+1269,ACH-001459,Rectal Adenocarcinoma
+1270,ACH-001460,Colon Adenocarcinoma
+1271,ACH-001461,Rectal Adenocarcinoma
+1272,ACH-001465,Neuroblastoma
+1273,ACH-001481,Neuroblastoma
+1274,ACH-001484,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+1275,ACH-001485,"Transformed cell line, B lymphoblast"
+1276,ACH-001489,Lung Squamous Cell Carcinoma
+1277,ACH-001490,Lung Adenocarcinoma
+1278,ACH-001492,Burkitt Lymphoma
+1279,ACH-001493,Burkitt Lymphoma
+1280,ACH-001494,Extrahepatic Cholangiocarcinoma
+1281,ACH-001495,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+1282,ACH-001496,Adenocarcinoma of the Gastroesophageal Junction
+1283,ACH-001497,Esophageal Adenocarcinoma
+1284,ACH-001498,Germinal Center B-Cell Type
+1285,ACH-001500,Esophageal Adenocarcinoma
+1286,ACH-001502,Teratoma
+1287,ACH-001503,Burkitt Lymphoma
+1288,ACH-001508,Oral Cavity Squamous Cell Carcinoma
+1289,ACH-001509,Oral Cavity Squamous Cell Carcinoma
+1290,ACH-001510,Oral Cavity Squamous Cell Carcinoma
+1291,ACH-001511,Oral Cavity Squamous Cell Carcinoma
+1292,ACH-001513,Endocervical Adenocarcinoma
+1293,ACH-001514,Breast Invasive Ductal Carcinoma
+1294,ACH-001515,Cervical Squamous Cell Carcinoma
+1295,ACH-001516,Endocervical Adenocarcinoma
+1296,ACH-001517,Endometrial Carcinoma
+1297,ACH-001518,Endometrial Carcinoma
+1298,ACH-001519,Extraskeletal Myxoid Chondrosarcoma
+1299,ACH-001520,"Transformed cell line, B lymphoblast"
+1300,ACH-001521,Cutaneous Squamous Cell Carcinoma
+1301,ACH-001522,Melanoma
+1302,ACH-001523,Cutaneous Squamous Cell Carcinoma
+1303,ACH-001524,Cutaneous Squamous Cell Carcinoma
+1304,ACH-001525,Cervical Adenocarcinoma
+1305,ACH-001526,Osteosarcoma
+1306,ACH-001528,Papillary Thyroid Cancer
+1307,ACH-001529,Choriocarcinoma
+1308,ACH-001530,Choriocarcinoma
+1309,ACH-001532,Rhabdoid Cancer
+1310,ACH-001533,Splenic Marginal Zone Lymphoma
+1311,ACH-001536,Extrahepatic Cholangiocarcinoma
+1312,ACH-001537,Intrahepatic Cholangiocarcinoma
+1313,ACH-001538,Intrahepatic Cholangiocarcinoma
+1314,ACH-001539,Germinal Center B-Cell Type
+1315,ACH-001540,Liposarcoma
+1316,ACH-001541,Plasma Cell Myeloma
+1317,ACH-001542,Oral Cavity Squamous Cell Carcinoma
+1318,ACH-001543,Oral Cavity Squamous Cell Carcinoma
+1319,ACH-001544,Esophageal Adenocarcinoma
+1320,ACH-001547,"Pleural Mesothelioma, Epithelioid Type"
+1321,ACH-001548,Neuroblastoma
+1322,ACH-001549,Small Cell Lung Cancer
+1323,ACH-001550,Merkel Cell Carcinoma
+1324,ACH-001551,Merkel Cell Carcinoma
+1325,ACH-001552,Merkel Cell Carcinoma
+1326,ACH-001554,Uveal Melanoma
+1327,ACH-001555,"Pleural Mesothelioma, Epithelioid Type"
+1328,ACH-001556,"Pleural Mesothelioma, Biphasic Type"
+1329,ACH-001557,"Pleural Mesothelioma, Epithelioid Type"
+1330,ACH-001558,"Pleural Mesothelioma, Biphasic Type"
+1331,ACH-001559,"Pleural Mesothelioma, Epithelioid Type"
+1332,ACH-001560,"Pleural Mesothelioma, Biphasic Type"
+1333,ACH-001561,"Pleural Mesothelioma, Biphasic Type"
+1334,ACH-001562,"Pleural Mesothelioma, Epithelioid Type"
+1335,ACH-001563,Melanoma
+1336,ACH-001566,Melanoma
+1337,ACH-001567,Melanoma
+1338,ACH-001568,Melanoma
+1339,ACH-001569,Melanoma
+1340,ACH-001570,Melanoma
+1341,ACH-001571,Hairy Cell Leukemia
+1342,ACH-001573,"Chronic Myeloid Leukemia, BCR-ABL1+"
+1343,ACH-001574,Acute Myeloid Leukemia
+1344,ACH-001577,Acute Myeloid Leukemia
+1345,ACH-001578,Embryonal Carcinoma
+1346,ACH-001591,Small Cell Lung Cancer
+1347,ACH-001598,Adrenocortical Carcinoma
+1348,ACH-001599,Small Cell Lung Cancer
+1349,ACH-001603,Neuroblastoma
+1350,ACH-001605,Glioblastoma
+1351,ACH-001606,Glioblastoma
+1352,ACH-001607,"Gallbladder Adenocarcinoma, NOS"
+1353,ACH-001608,Glioblastoma
+1354,ACH-001609,Glioblastoma
+1355,ACH-001610,Glioblastoma
+1356,ACH-001611,Glioblastoma
+1357,ACH-001613,Acute Myeloid Leukemia
+1358,ACH-001616,"Diffuse Large B-Cell Lymphoma, NOS"
+1359,ACH-001617,"Diffuse Large B-Cell Lymphoma, NOS"
+1360,ACH-001618,Acute Myeloid Leukemia
+1361,ACH-001619,"Gallbladder Adenocarcinoma, NOS"
+1362,ACH-001622,Glioblastoma
+1363,ACH-001623,Glioblastoma
+1364,ACH-001624,Glioblastoma
+1365,ACH-001625,Oral Cavity Squamous Cell Carcinoma
+1366,ACH-001626,Oral Cavity Squamous Cell Carcinoma
+1367,ACH-001627,"Immortalized Epithelial Cells, Prostate"
+1368,ACH-001628,High-Grade Serous Ovarian Cancer
+1369,ACH-001630,Serous Ovarian Cancer
+1370,ACH-001632,Serous Ovarian Cancer
+1371,ACH-001634,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+1372,ACH-001636,Non-Hodgkin Lymphoma
+1373,ACH-001638,Germinal Center B-Cell Type
+1374,ACH-001639,"Diffuse Large B-Cell Lymphoma, NOS"
+1375,ACH-001641,Head and Neck Squamous Cell Carcinoma
+1376,ACH-001642,Mature B-Cell Neoplasms
+1377,ACH-001643,Ewing Sarcoma
+1378,ACH-001645,Melanoma
+1379,ACH-001647,Acute Myeloid Leukemia
+1380,ACH-001648,"Immortalized Epithelial Cells, Prostate"
+1381,ACH-001649,"Immortalized Epithelial Cells, Prostate"
+1382,ACH-001650,Cervical Adenocarcinoma
+1383,ACH-001651,Cervical Squamous Cell Carcinoma
+1384,ACH-001652,Cervical Squamous Cell Carcinoma
+1385,ACH-001653,Stomach Adenocarcinoma
+1386,ACH-001654,Esophageal Adenocarcinoma
+1387,ACH-001655,Uterine Leiomyosarcoma
+1388,ACH-001656,Acute Myeloid Leukemia
+1389,ACH-001662,"Breast Invasive Cancer, NOS"
+1390,ACH-001664,Stomach Adenocarcinoma
+1391,ACH-001667,Clear Cell Sarcoma
+1392,ACH-001668,Teratoma
+1393,ACH-001669,B-Cell Acute Lymphoblastic Leukemia
+1394,ACH-001670,Primitive Neuroectodermal Tumor
+1395,ACH-001671,Embryonal Carcinoma
+1396,ACH-001672,Embryonal Carcinoma
+1397,ACH-001673,Extrahepatic Cholangiocarcinoma
+1398,ACH-001674,Neuroblastoma
+1399,ACH-001675,Oral Cavity Squamous Cell Carcinoma
+1400,ACH-001676,NUT Midline Carcinoma of the Head and Neck
+1401,ACH-001677,"Diffuse Large B-Cell Lymphoma, NOS"
+1402,ACH-001678,"Diffuse Large B-Cell Lymphoma, NOS"
+1403,ACH-001679,"High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements"
+1404,ACH-001680,Non-Hodgkin Lymphoma
+1405,ACH-001683,Breast Invasive Lobular Carcinoma
+1406,ACH-001684,"AML, NOS"
+1407,ACH-001685,Hodgkin Lymphoma
+1408,ACH-001686,"Diffuse Large B-Cell Lymphoma, NOS"
+1409,ACH-001687,Renal Clear Cell Carcinoma
+1410,ACH-001688,Renal Cell Carcinoma
+1411,ACH-001690,Oral Cavity Squamous Cell Carcinoma
+1412,ACH-001691,Oral Cavity Squamous Cell Carcinoma
+1413,ACH-001692,Oral Cavity Squamous Cell Carcinoma
+1414,ACH-001693,Oral Cavity Squamous Cell Carcinoma
+1415,ACH-001694,Oral Cavity Squamous Cell Carcinoma
+1416,ACH-001695,Oral Cavity Squamous Cell Carcinoma
+1417,ACH-001696,Oral Cavity Squamous Cell Carcinoma
+1418,ACH-001697,Oral Cavity Squamous Cell Carcinoma
+1419,ACH-001698,Oral Cavity Squamous Cell Carcinoma
+1420,ACH-001699,Oral Cavity Squamous Cell Carcinoma
+1421,ACH-001700,Oropharynx Squamous Cell Carcinoma
+1422,ACH-001701,Oral Cavity Squamous Cell Carcinoma
+1423,ACH-001702,Epithelioid Sarcoma
+1424,ACH-001703,"Diffuse Large B-Cell Lymphoma, NOS"
+1425,ACH-001704,Melanoma
+1426,ACH-001705,Breast Invasive Ductal Carcinoma
+1427,ACH-001707,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+1428,ACH-001708,Follicular Lymphoma
+1429,ACH-001709,"Diffuse Large B-Cell Lymphoma, NOS"
+1430,ACH-001711,Primitive Neuroectodermal Tumor
+1431,ACH-001712,Osteosarcoma
+1432,ACH-001715,Osteosarcoma
+1433,ACH-001716,Neuroblastoma
+1434,ACH-001719,Clear Cell Ovarian Cancer
+1435,ACH-001735,B-Cell Acute Lymphoblastic Leukemia
+1436,ACH-001736,B-Cell Acute Lymphoblastic Leukemia
+1437,ACH-001737,T-Cell Acute Lymphoblastic Leukemia
+1438,ACH-001738,T-Cell Acute Lymphoblastic Leukemia
+1439,ACH-001740,Alveolar Rhabdomyosarcoma
+1440,ACH-001743,Alveolar Rhabdomyosarcoma
+1441,ACH-001745,Alveolar Rhabdomyosarcoma
+1442,ACH-001750,Embryonal Rhabdomyosarcoma
+1443,ACH-001751,Embryonal Rhabdomyosarcoma
+1444,ACH-001756,Embryonal Rhabdomyosarcoma
+1445,ACH-001758,Embryonal Rhabdomyosarcoma
+1446,ACH-001759,Embryonal Rhabdomyosarcoma
+1447,ACH-001760,Embryonal Rhabdomyosarcoma
+1448,ACH-001765,Alveolar Rhabdomyosarcoma
+1449,ACH-001767,"Fibroblast, Soft Tissue"
+1450,ACH-001786,Colon Adenocarcinoma
+1451,ACH-001791,Liposarcoma
+1452,ACH-001793,Liposarcoma
+1453,ACH-001794,Well-Differentiated Liposarcoma
+1454,ACH-001795,Well-Differentiated Liposarcoma
+1455,ACH-001796,Well-Differentiated Liposarcoma
+1456,ACH-001799,Dedifferentiated Liposarcoma
+1457,ACH-001802,Dedifferentiated Liposarcoma
+1458,ACH-001804,Dedifferentiated Liposarcoma
+1459,ACH-001807,Dedifferentiated Liposarcoma
+1460,ACH-001813,Osteosarcoma
+1461,ACH-001814,Osteosarcoma
+1462,ACH-001817,Osteosarcoma
+1463,ACH-001818,Osteosarcoma
+1464,ACH-001819,Breast Invasive Ductal Carcinoma
+1465,ACH-001820,"Breast Neoplasm, NOS"
+1466,ACH-001825,Colon Adenocarcinoma
+1467,ACH-001828,Matched Normal
+1468,ACH-001834,Intrahepatic Cholangiocarcinoma
+1469,ACH-001835,Intrahepatic Cholangiocarcinoma
+1470,ACH-001836,Intrahepatic Cholangiocarcinoma
+1471,ACH-001838,Intrahepatic Cholangiocarcinoma
+1472,ACH-001839,Intrahepatic Cholangiocarcinoma
+1473,ACH-001841,Extrahepatic Cholangiocarcinoma
+1474,ACH-001842,Intrahepatic Cholangiocarcinoma
+1475,ACH-001843,Extrahepatic Cholangiocarcinoma
+1476,ACH-001844,Intrahepatic Cholangiocarcinoma
+1477,ACH-001845,Intrahepatic Cholangiocarcinoma
+1478,ACH-001846,Intrahepatic Cholangiocarcinoma
+1479,ACH-001847,Intrahepatic Cholangiocarcinoma
+1480,ACH-001848,Intrahepatic Cholangiocarcinoma
+1481,ACH-001849,Intrahepatic Cholangiocarcinoma
+1482,ACH-001850,"Gallbladder Adenocarcinoma, NOS"
+1483,ACH-001852,Intrahepatic Cholangiocarcinoma
+1484,ACH-001853,Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma
+1485,ACH-001854,"Immortalized Cholangiocyte, Highly Differentiated"
+1486,ACH-001855,Intrahepatic Cholangiocarcinoma
+1487,ACH-001856,Intrahepatic Cholangiocarcinoma
+1488,ACH-001857,Intrahepatic Cholangiocarcinoma
+1489,ACH-001858,Intrahepatic Cholangiocarcinoma
+1490,ACH-001861,Gallbladder Cancer
+1491,ACH-001862,Ampullary Carcinoma
+1492,ACH-001863,Intrahepatic Cholangiocarcinoma
+1493,ACH-001864,Intrahepatic Cholangiocarcinoma
+1494,ACH-001949,Melanoma
+1495,ACH-001953,Melanoma
+1496,ACH-001958,Small Cell Lung Cancer
+1497,ACH-001959,Intrahepatic Cholangiocarcinoma
+1498,ACH-001960,Intrahepatic Cholangiocarcinoma
+1499,ACH-001961,Gallbladder Cancer
+1500,ACH-001970,Melanoma
+1501,ACH-001971,Melanoma
+1502,ACH-001972,Melanoma
+1503,ACH-001973,Melanoma
+1504,ACH-001974,Melanoma
+1505,ACH-001975,Melanoma
+1506,ACH-001976,Melanoma
+1507,ACH-001977,"Pleural Mesothelioma, Epithelioid Type"
+1508,ACH-001978,Melanoma
+1509,ACH-001979,Melanoma
+1510,ACH-001980,Melanoma
+1511,ACH-001981,Melanoma
+1512,ACH-001982,Melanoma
+1513,ACH-001983,Melanoma
+1514,ACH-001984,Melanoma
+1515,ACH-001985,Melanoma
+1516,ACH-001986,Melanoma
+1517,ACH-001987,Melanoma
+1518,ACH-001988,Melanoma
+1519,ACH-001989,Melanoma
+1520,ACH-001990,Melanoma
+1521,ACH-001991,Endometrioid Ovarian Cancer
+1522,ACH-001992,"Pleural Mesothelioma, Epithelioid Type"
+1523,ACH-001993,B-Cell Acute Lymphoblastic Leukemia
+1524,ACH-001994,Intrahepatic Cholangiocarcinoma
+1525,ACH-001996,Intrahepatic Cholangiocarcinoma
+1526,ACH-001997,Ampullary Carcinoma
+1527,ACH-001999,Pancreatic Adenocarcinoma
+1528,ACH-002001,Melanoma
+1529,ACH-002002,Melanoma
+1530,ACH-002003,Melanoma
+1531,ACH-002004,Melanoma
+1532,ACH-002005,Cutaneous Melanoma
+1533,ACH-002010,Uveal Melanoma
+1534,ACH-002011,Uveal Melanoma
+1535,ACH-002013,Uveal Melanoma
+1536,ACH-002014,Uveal Melanoma
+1537,ACH-002015,Uveal Melanoma
+1538,ACH-002016,Uveal Melanoma
+1539,ACH-002017,Uveal Melanoma
+1540,ACH-002018,Uveal Melanoma
+1541,ACH-002019,Glassy Cell Carcinoma of the Cervix
+1542,ACH-002020,Cervical Squamous Cell Carcinoma
+1543,ACH-002021,Choriocarcinoma
+1544,ACH-002023,Ampullary Carcinoma
+1545,ACH-002024,Rectal Adenocarcinoma
+1546,ACH-002025,Rectal Adenocarcinoma
+1547,ACH-002026,Endometrial Carcinoma
+1548,ACH-002027,Endometrial Carcinoma
+1549,ACH-002029,Oral Cavity Squamous Cell Carcinoma
+1550,ACH-002030,Oral Cavity Squamous Cell Carcinoma
+1551,ACH-002033,"Pleural Mesothelioma, Epithelioid Type"
+1552,ACH-002034,NUT Carcinoma of the Lung
+1553,ACH-002035,Poorly Differentiated Non-Small Cell Lung Cancer
+1554,ACH-002036,Small Cell Lung Cancer
+1555,ACH-002038,"Ovarian Cancer, Other"
+1556,ACH-002039,Pancreatic Adenocarcinoma
+1557,ACH-002040,Mucosal Melanoma of the Vulva/Vagina
+1558,ACH-002041,Anaplastic Thyroid Cancer
+1559,ACH-002042,Head and Neck Squamous Cell Carcinoma
+1560,ACH-002043,Oral Cavity Squamous Cell Carcinoma
+1561,ACH-002044,Sinonasal Squamous Cell Carcinoma
+1562,ACH-002045,Oral Cavity Squamous Cell Carcinoma
+1563,ACH-002046,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+1564,ACH-002047,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+1565,ACH-002048,Embryonal Rhabdomyosarcoma
+1566,ACH-002050,Extra Gonadal Germ Cell Tumor
+1567,ACH-002051,Small Cell Lung Cancer
+1568,ACH-002052,Small Cell Lung Cancer
+1569,ACH-002055,Burkitt Lymphoma
+1570,ACH-002058,T-Cell Acute Lymphoblastic Leukemia
+1571,ACH-002059,B-Cell Acute Lymphoblastic Leukemia
+1572,ACH-002060,Acute Leukemias of Ambiguous Lineage
+1573,ACH-002061,"Chronic Myeloid Leukemia, BCR-ABL1+"
+1574,ACH-002062,Splenic Marginal Zone Lymphoma
+1575,ACH-002065,Malignant Peripheral Nerve Sheath Tumor
+1576,ACH-002066,Malignant Peripheral Nerve Sheath Tumor
+1577,ACH-002067,Osteosarcoma
+1578,ACH-002069,Osteosarcoma
+1579,ACH-002070,Meningioma
+1580,ACH-002074,Small Cell Lung Cancer
+1581,ACH-002075,Small Cell Lung Cancer
+1582,ACH-002077,Small Cell Lung Cancer
+1583,ACH-002080,Neuroblastoma
+1584,ACH-002083,Neuroblastoma
+1585,ACH-002084,Melanoma
+1586,ACH-002085,Synovial Sarcoma
+1587,ACH-002089,Lung Adenocarcinoma
+1588,ACH-002090,Renal Cell Carcinoma
+1589,ACH-002091,Squamous Cell Carcinoma of the Vulva/Vagina
+1590,ACH-002092,Chondrosarcoma
+1591,ACH-002093,Chondrosarcoma
+1592,ACH-002094,Chondrosarcoma
+1593,ACH-002095,Small Cell Lung Cancer
+1594,ACH-002096,Melanoma
+1595,ACH-002097,Melanoma
+1596,ACH-002098,Melanoma
+1597,ACH-002099,Chondrosarcoma
+1598,ACH-002100,Cutaneous Squamous Cell Carcinoma
+1599,ACH-002101,Non-Small Cell Lung Cancer
+1600,ACH-002102,Non-Small Cell Lung Cancer
+1601,ACH-002103,Ewing Sarcoma
+1602,ACH-002104,Ewing Sarcoma
+1603,ACH-002105,Ewing Sarcoma
+1604,ACH-002106,Ewing Sarcoma
+1605,ACH-002107,Ewing Sarcoma
+1606,ACH-002108,Ewing Sarcoma
+1607,ACH-002109,Ewing Sarcoma
+1608,ACH-002110,Ewing Sarcoma
+1609,ACH-002111,Ewing Sarcoma
+1610,ACH-002112,Ewing Sarcoma
+1611,ACH-002113,Ewing Sarcoma
+1612,ACH-002114,Ewing Sarcoma
+1613,ACH-002115,Ewing Sarcoma
+1614,ACH-002116,Ewing Sarcoma
+1615,ACH-002117,Ewing Sarcoma
+1616,ACH-002118,Ewing Sarcoma
+1617,ACH-002119,Ewing Sarcoma
+1618,ACH-002120,Mucosal Melanoma of the Vulva/Vagina
+1619,ACH-002121,Cutaneous Melanoma
+1620,ACH-002122,Lung Squamous Cell Carcinoma
+1621,ACH-002123,Pleural Mesothelioma
+1622,ACH-002124,"Pleural Mesothelioma, Sarcomatoid Type"
+1623,ACH-002125,"Pleural Mesothelioma, Epithelioid Type"
+1624,ACH-002126,"Pleural Mesothelioma, Epithelioid Type"
+1625,ACH-002127,"Pleural Mesothelioma, Epithelioid Type"
+1626,ACH-002128,Pleural Mesothelioma
+1627,ACH-002129,"Pleural Mesothelioma, Sarcomatoid Type"
+1628,ACH-002130,"Pleural Mesothelioma, Epithelioid Type"
+1629,ACH-002131,Pleural Mesothelioma
+1630,ACH-002132,Pleural Mesothelioma
+1631,ACH-002133,"Pleural Mesothelioma, Epithelioid Type"
+1632,ACH-002134,"Pleural Mesothelioma, Epithelioid Type"
+1633,ACH-002135,"Pleural Mesothelioma, Biphasic Type"
+1634,ACH-002136,Pleural Mesothelioma
+1635,ACH-002138,Lung Adenosquamous Carcinoma
+1636,ACH-002139,Renal Cell Carcinoma
+1637,ACH-002140,High-Grade Serous Ovarian Cancer
+1638,ACH-002141,Signet Ring Cell Carcinoma of the Stomach
+1639,ACH-002142,Osteosarcoma
+1640,ACH-002143,Melanoma
+1641,ACH-002144,Small Cell Lung Cancer
+1642,ACH-002145,Small Cell Lung Cancer
+1643,ACH-002146,Serous Ovarian Cancer
+1644,ACH-002147,Melanoma
+1645,ACH-002148,Papillary Thyroid Cancer
+1646,ACH-002149,Granulosa Cell Tumor
+1647,ACH-002150,Renal Cell Carcinoma
+1648,ACH-002151,Renal Cell Carcinoma
+1649,ACH-002152,Melanoma
+1650,ACH-002153,Melanoma
+1651,ACH-002154,Small Cell Lung Cancer
+1652,ACH-002155,Renal Cell Carcinoma
+1653,ACH-002156,Lung Squamous Cell Carcinoma
+1654,ACH-002157,Lung Adenocarcinoma
+1655,ACH-002158,Giant Cell Carcinoma of the Lung
+1656,ACH-002159,Melanoma
+1657,ACH-002160,Ewing Sarcoma
+1658,ACH-002161,Tubular Stomach Adenocarcinoma
+1659,ACH-002162,Melanoma
+1660,ACH-002163,Breast Invasive Lobular Carcinoma
+1661,ACH-002164,Pancreatic Adenocarcinoma
+1662,ACH-002165,Melanoma
+1663,ACH-002166,Melanoma
+1664,ACH-002167,Renal Cell Carcinoma
+1665,ACH-002168,Renal Cell Carcinoma
+1666,ACH-002169,Small Cell Lung Cancer
+1667,ACH-002170,Small Cell Lung Cancer
+1668,ACH-002171,Small Cell Lung Cancer
+1669,ACH-002172,Lung Adenocarcinoma
+1670,ACH-002173,Small Cell Lung Cancer
+1671,ACH-002174,Lung Carcinoid
+1672,ACH-002175,Small Cell Lung Cancer
+1673,ACH-002177,Lung Carcinoid
+1674,ACH-002178,Osteosarcoma
+1675,ACH-002179,Invasive Breast Carcinoma
+1676,ACH-002180,Cervical Squamous Cell Carcinoma
+1677,ACH-002181,Serous Ovarian Cancer
+1678,ACH-002182,Serous Ovarian Cancer
+1679,ACH-002183,High-Grade Serous Ovarian Cancer
+1680,ACH-002184,Lung Adenocarcinoma
+1681,ACH-002186,Pancreatic Adenocarcinoma
+1682,ACH-002187,Renal Clear Cell Carcinoma
+1683,ACH-002188,Renal Clear Cell Carcinoma
+1684,ACH-002189,Renal Clear Cell Carcinoma
+1685,ACH-002190,Renal Clear Cell Carcinoma
+1686,ACH-002191,Renal Clear Cell Carcinoma
+1687,ACH-002192,Renal Clear Cell Carcinoma
+1688,ACH-002193,Small Cell Lung Cancer
+1689,ACH-002195,Renal Cell Carcinoma
+1690,ACH-002196,Small Cell Lung Cancer
+1691,ACH-002197,Small Cell Lung Cancer
+1692,ACH-002198,Extra Gonadal Germ Cell Tumor
+1693,ACH-002199,Renal Cell Carcinoma
+1694,ACH-002200,Mucosal Melanoma of the Vulva/Vagina
+1695,ACH-002201,Small Cell Carcinoma of the Cervix
+1696,ACH-002202,Stomach Adenocarcinoma
+1697,ACH-002204,Chordoma
+1698,ACH-002205,Cutaneous Melanoma
+1699,ACH-002206,Melanoma
+1700,ACH-002207,Melanoma
+1701,ACH-002208,Breast Invasive Ductal Carcinoma
+1702,ACH-002209,B-Cell Acute Lymphoblastic Leukemia
+1703,ACH-002210,Immortalized Blood
+1704,ACH-002211,B-Cell Acute Lymphoblastic Leukemia
+1705,ACH-002212,Head and Neck Squamous Cell Carcinoma
+1706,ACH-002213,Oral Cavity Squamous Cell Carcinoma
+1707,ACH-002214,Primary Effusion Lymphoma
+1708,ACH-002215,Primary Effusion Lymphoma
+1709,ACH-002216,T-Cell Acute Lymphoblastic Leukemia
+1710,ACH-002217,Neuroblastoma
+1711,ACH-002218,Acute Myeloid Leukemia
+1712,ACH-002219,Colon Adenocarcinoma
+1713,ACH-002220,Primary Effusion Lymphoma
+1714,ACH-002221,"Diffuse Large B-Cell Lymphoma, NOS"
+1715,ACH-002222,T-Cell Acute Lymphoblastic Leukemia
+1716,ACH-002223,Glioblastoma
+1717,ACH-002224,Gliosarcoma
+1718,ACH-002225,Glioblastoma
+1719,ACH-002226,Gliosarcoma
+1720,ACH-002227,Glioblastoma
+1721,ACH-002228,Glioblastoma
+1722,ACH-002229,Glioblastoma
+1723,ACH-002230,Glioblastoma
+1724,ACH-002231,Glioblastoma
+1725,ACH-002232,Burkitt Lymphoma
+1726,ACH-002233,Colorectal Adenocarcinoma
+1727,ACH-002234,"Head and Neck Carcinoma, Other"
+1728,ACH-002235,Bladder Urothelial Carcinoma
+1729,ACH-002236,Burkitt Lymphoma
+1730,ACH-002237,Intrahepatic Cholangiocarcinoma
+1731,ACH-002238,B-Cell Acute Lymphoblastic Leukemia
+1732,ACH-002239,Mucoepidermoid Carcinoma
+1733,ACH-002240,Sezary Syndrome
+1734,ACH-002241,B-Cell Acute Lymphoblastic Leukemia
+1735,ACH-002242,Hairy Cell Leukemia
+1736,ACH-002243,Esophageal Squamous Cell Carcinoma
+1737,ACH-002244,Oral Cavity Squamous Cell Carcinoma
+1738,ACH-002245,Hodgkin Lymphoma
+1739,ACH-002246,Fibrosarcoma
+1740,ACH-002247,Immortalized Blood
+1741,ACH-002248,Neuroblastoma
+1742,ACH-002249,Larynx Squamous Cell Carcinoma
+1743,ACH-002250,Larynx Squamous Cell Carcinoma
+1744,ACH-002251,Larynx Squamous Cell Carcinoma
+1745,ACH-002252,Burkitt Lymphoma
+1746,ACH-002253,Primary Effusion Lymphoma
+1747,ACH-002254,Primary Mediastinal (Thymic) Large B-Cell Lymphoma (PMBL)
+1748,ACH-002255,"Diffuse Large B-Cell Lymphoma, NOS"
+1749,ACH-002256,T-Cell Acute Lymphoblastic Leukemia
+1750,ACH-002257,Anaplastic Astrocytoma
+1751,ACH-002258,Acute Myeloid Leukemia
+1752,ACH-002259,Glioblastoma
+1753,ACH-002261,Neuroblastoma
+1754,ACH-002262,Acute Myelomonocytic Leukemia
+1755,ACH-002263,Esophageal Squamous Cell Carcinoma
+1756,ACH-002264,Esophageal Squamous Cell Carcinoma
+1757,ACH-002265,Head and Neck Squamous Cell Carcinoma
+1758,ACH-002266,Bladder Urothelial Carcinoma
+1759,ACH-002267,B-Cell Acute Lymphoblastic Leukemia
+1760,ACH-002268,Glioblastoma
+1761,ACH-002269,Astrocytoma
+1762,ACH-002270,B lymphoblast
+1763,ACH-002271,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+1764,ACH-002272,Non-Hodgkin Lymphoma
+1765,ACH-002273,Acute Myeloid Leukemia
+1766,ACH-002274,Hairy Cell Leukemia
+1767,ACH-002275,Burkitt Lymphoma
+1768,ACH-002276,Acute Leukemias of Ambiguous Lineage
+1769,ACH-002277,Neuroblastoma
+1770,ACH-002278,Neuroblastoma
+1771,ACH-002279,Neuroblastoma
+1772,ACH-002280,Neuroblastoma
+1773,ACH-002281,Neuroblastoma
+1774,ACH-002282,Neuroblastoma
+1775,ACH-002283,Neuroblastoma
+1776,ACH-002284,Neuroblastoma
+1777,ACH-002285,Neuroblastoma
+1778,ACH-002286,Small Cell Lung Cancer
+1779,ACH-002287,Colorectal Adenocarcinoma
+1780,ACH-002288,Embryonal Carcinoma
+1781,ACH-002289,Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma (NKCLL)
+1782,ACH-002290,Acute Myeloid Leukemia
+1783,ACH-002291,Embryonal Carcinoma
+1784,ACH-002292,Esophageal Adenocarcinoma
+1785,ACH-002293,Burkitt Lymphoma
+1786,ACH-002294,Hypopharynx Squamous Cell Carcinoma
+1787,ACH-002295,Oral Cavity Squamous Cell Carcinoma
+1788,ACH-002296,Oral Cavity Squamous Cell Carcinoma
+1789,ACH-002297,Larynx Squamous Cell Carcinoma
+1790,ACH-002298,Oral Cavity Squamous Cell Carcinoma
+1791,ACH-002299,Acute Myeloid Leukemia
+1792,ACH-002300,Burkitt Lymphoma
+1793,ACH-002301,Non-Hodgkin Lymphoma
+1794,ACH-002302,"Chronic Myeloid Leukemia, BCR-ABL1+"
+1795,ACH-002304,Astrocytoma
+1796,ACH-002305,Oral Cavity Squamous Cell Carcinoma
+1797,ACH-002306,Stomach Adenocarcinoma
+1798,ACH-002307,Mature B-Cell Neoplasms
+1799,ACH-002308,B-Cell Acute Lymphoblastic Leukemia
+1800,ACH-002309,Fibrosarcoma
+1801,ACH-002310,Liposarcoma
+1802,ACH-002311,Esophageal Squamous Cell Carcinoma
+1803,ACH-002312,"Gallbladder Adenocarcinoma, NOS"
+1804,ACH-002313,Mature B-Cell Neoplasms
+1805,ACH-002314,Acute Monoblastic/Monocytic Leukemia
+1806,ACH-002316,Spherocytosis
+1807,ACH-002317,Non-Hodgkin Lymphoma
+1808,ACH-002320,"Breast Invasive Carcinoma, NOS"
+1809,ACH-002321,Immortalized Breast Cells
+1810,ACH-002322,Breast Invasive Lobular Carcinoma
+1811,ACH-002323,Breast Ductal Carcinoma In Situ
+1812,ACH-002324,Breast Invasive Ductal Carcinoma
+1813,ACH-002326,Breast Invasive Ductal Carcinoma
+1814,ACH-002327,Immortalized Breast Cells
+1815,ACH-002328,"Breast Neoplasm, NOS"
+1816,ACH-002329,"Breast Neoplasm, NOS"
+1817,ACH-002330,"Breast Neoplasm, NOS"
+1818,ACH-002331,"Breast Invasive Carcinoma, NOS"
+1819,ACH-002332,Gastrointestinal Stromal Tumor
+1820,ACH-002333,Lung Adenocarcinoma
+1821,ACH-002334,Synovial Sarcoma
+1822,ACH-002336,"Immortalized Epithelial Cells, Corneal"
+1823,ACH-002337,Lung Adenocarcinoma
+1824,ACH-002338,Melanoma
+1825,ACH-002339,Hairy Cell Leukemia
+1826,ACH-002340,Neuroblastoma
+1827,ACH-002342,Matched Normal
+1828,ACH-002343,Matched Normal
+1829,ACH-002344,Matched Normal
+1830,ACH-002345,Rectal Adenocarcinoma
+1831,ACH-002346,Matched Normal
+1832,ACH-002347,Matched Normal
+1833,ACH-002348,Diffuse Intrinsic Pontine Glioma
+1834,ACH-002349,Glioblastoma
+1835,ACH-002350,Matched Normal
+1836,ACH-002351,Matched Normal
+1837,ACH-002352,Matched Normal
+1838,ACH-002353,Matched Normal
+1839,ACH-002354,Matched Normal
+1840,ACH-002355,Matched Normal
+1841,ACH-002356,Matched Normal
+1842,ACH-002357,Matched Normal
+1843,ACH-002358,Matched Normal
+1844,ACH-002360,Matched Normal
+1845,ACH-002361,Matched Normal
+1846,ACH-002362,Matched Normal
+1847,ACH-002363,Matched Normal
+1848,ACH-002364,Matched Normal
+1849,ACH-002365,Matched Normal
+1850,ACH-002366,Matched Normal
+1851,ACH-002367,Matched Normal
+1852,ACH-002368,Matched Normal
+1853,ACH-002369,Matched Normal
+1854,ACH-002370,Matched Normal
+1855,ACH-002371,Matched Normal
+1856,ACH-002372,Matched Normal
+1857,ACH-002373,Matched Normal
+1858,ACH-002374,Matched Normal
+1859,ACH-002375,Matched Normal
+1860,ACH-002376,Matched Normal
+1861,ACH-002377,Matched Normal
+1862,ACH-002378,Matched Normal
+1863,ACH-002379,Matched Normal
+1864,ACH-002380,Matched Normal
+1865,ACH-002381,Matched Normal
+1866,ACH-002382,Matched Normal
+1867,ACH-002383,Matched Normal
+1868,ACH-002384,Matched Normal
+1869,ACH-002386,Melanoma
+1870,ACH-002387,Melanoma
+1871,ACH-002388,Melanoma
+1872,ACH-002389,Neuroblastoma
+1873,ACH-002392,Follicular Lymphoma
+1874,ACH-002397,Anaplastic Thyroid Cancer
+1875,ACH-002399,Breast Invasive Ductal Carcinoma
+1876,ACH-002400,Breast Invasive Ductal Carcinoma
+1877,ACH-002401,Breast Invasive Ductal Carcinoma
+1878,ACH-002403,Melanoma
+1879,ACH-002404,Melanoma
+1880,ACH-002405,Melanoma
+1881,ACH-002407,Melanoma
+1882,ACH-002409,Glioblastoma
+1883,ACH-002419,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+1884,ACH-002431,Neuroblastoma
+1885,ACH-002433,Osteosarcoma
+1886,ACH-002435,Wilms' Tumor
+1887,ACH-002438,Wilms' Tumor
+1888,ACH-002440,Papillary Thyroid Cancer
+1889,ACH-002444,Stomach Adenocarcinoma
+1890,ACH-002445,Stomach Adenocarcinoma
+1891,ACH-002446,Stomach Adenocarcinoma
+1892,ACH-002458,Melanoma
+1893,ACH-002459,Melanoma
+1894,ACH-002460,Melanoma
+1895,ACH-002461,Melanoma
+1896,ACH-002462,"Immortalized Epithelial Cells, Retinal"
+1897,ACH-002463,"Immortalized Epithelial Cells, Retinal"
+1898,ACH-002464,"Immortalized Epithelial Cells, Retinal"
+1899,ACH-002465,"Immortalized Epithelial Cells, Retinal"
+1900,ACH-002466,"Immortalized Epithelial Cells, Retinal"
+1901,ACH-002467,"Immortalized Epithelial Cells, Retinal"
+1902,ACH-002470,Osteosarcoma
+1903,ACH-002471,Osteosarcoma
+1904,ACH-002475,"Chronic Myeloid Leukemia, BCR-ABL1+"
+1905,ACH-002478,Primary Effusion Lymphoma
+1906,ACH-002485,Mantle Cell Lymphoma
+1907,ACH-002486,Serous Ovarian Cancer
+1908,ACH-002490,Small Cell Lung Cancer
+1909,ACH-002497,Lung Adenocarcinoma
+1910,ACH-002498,Activated B-cell Type
+1911,ACH-002499,Breast Invasive Ductal Carcinoma
+1912,ACH-002500,Mantle Cell Lymphoma
+1913,ACH-002501,Alveolar Rhabdomyosarcoma
+1914,ACH-002508,Acral Melanoma
+1915,ACH-002509,Acral Melanoma
+1916,ACH-002510,Acral Melanoma
+1917,ACH-002511,Melanoma
+1918,ACH-002512,Acral Melanoma
+1919,ACH-002522,Lung Adenocarcinoma
+1920,ACH-002523,Hepatocellular Carcinoma
+1921,ACH-002524,Endometrioid Ovarian Cancer
+1922,ACH-002526,Lung Adenocarcinoma
+1923,ACH-002528,Renal Clear Cell Carcinoma
+1924,ACH-002529,Lung Squamous Cell Carcinoma
+1925,ACH-002530,Rectal Adenocarcinoma
+1926,ACH-002531,Lung Adenocarcinoma
+1927,ACH-002532,Rectal Adenocarcinoma
+1928,ACH-002533,Renal Cell Carcinoma
+1929,ACH-002535,Rectal Adenocarcinoma
+1930,ACH-002538,Colon Adenocarcinoma
+1931,ACH-002539,Colon Adenocarcinoma
+1932,ACH-002543,Colon Adenocarcinoma
+1933,ACH-002544,Tubular Stomach Adenocarcinoma
+1934,ACH-002643,B-Cell Acute Lymphoblastic Leukemia
+1935,ACH-002644,"AML, NOS"
+1936,ACH-002647,Cholangiocarcinoma
+1937,ACH-002648,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+1938,ACH-002650,Lung Adenocarcinoma
+1939,ACH-002651,Acute Myeloid Leukemia
+1940,ACH-002653,Acute Leukemias of Ambiguous Lineage
+1941,ACH-002654,Colon Adenocarcinoma
+1942,ACH-002659,Mucinous Adenocarcinoma of the Colon and Rectum
+1943,ACH-002660,Colon Adenocarcinoma
+1944,ACH-002662,Colon Adenocarcinoma
+1945,ACH-002664,Mucinous Adenocarcinoma of the Colon and Rectum
+1946,ACH-002665,High-Grade Neuroendocrine Carcinoma of the Colon and Rectum
+1947,ACH-002667,Colon Adenocarcinoma
+1948,ACH-002668,Acute Myeloid Leukemia
+1949,ACH-002669,Colon Adenocarcinoma
+1950,ACH-002672,Pancreatic Adenocarcinoma
+1951,ACH-002675,Acute Myeloid Leukemia
+1952,ACH-002676,"Chronic Myeloid Leukemia, BCR-ABL1+"
+1953,ACH-002677,"Diffuse Large B-Cell Lymphoma, NOS"
+1954,ACH-002678,"Diffuse Large B-Cell Lymphoma, NOS"
+1955,ACH-002680,Glioblastoma
+1956,ACH-002681,Glioblastoma
+1957,ACH-002687,Uveal Melanoma
+1958,ACH-002688,Osteosarcoma
+1959,ACH-002689,Osteosarcoma
+1960,ACH-002690,Osteosarcoma
+1961,ACH-002693,Malignant Peripheral Nerve Sheath Tumor
+1962,ACH-002695,Malignant Peripheral Nerve Sheath Tumor
+1963,ACH-002703,Esophageal Adenocarcinoma
+1964,ACH-002705,Esophageal Adenocarcinoma
+1965,ACH-002706,Esophageal Adenocarcinoma
+1966,ACH-002708,Myxoid/Round-Cell Liposarcoma
+1967,ACH-002709,Acute Myeloid Leukemia
+1968,ACH-002710,Malignant Peripheral Nerve Sheath Tumor
+1969,ACH-002711,Adenoid Cystic Carcinoma
+1970,ACH-002716,AML with Minimal Differentiation
+1971,ACH-002722,Desmoid/Aggressive Fibromatosis
+1972,ACH-002730,Stomach Adenocarcinoma
+1973,ACH-002733,Stomach Adenocarcinoma
+1974,ACH-002736,Diffuse Type Stomach Adenocarcinoma
+1975,ACH-002738,Pancreatic Adenocarcinoma
+1976,ACH-002742,Pancreatic Adenocarcinoma
+1977,ACH-002743,Pancreatic Adenocarcinoma
+1978,ACH-002744,Pancreatic Adenocarcinoma
+1979,ACH-002745,Pancreatic Adenocarcinoma
+1980,ACH-002757,Stomach Adenocarcinoma
+1981,ACH-002778,Osteosarcoma
+1982,ACH-002780,Ewing Sarcoma
+1983,ACH-002781,Dedifferentiated Chondrosarcoma
+1984,ACH-002782,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+1985,ACH-002784,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+1986,ACH-002785,Leiomyosarcoma
+1987,ACH-002787,Pleomorphic Rhabdomyosarcoma
+1988,ACH-002789,Synovial Sarcoma
+1989,ACH-002790,Synovial Sarcoma
+1990,ACH-002792,Clear Cell Sarcoma
+1991,ACH-002794,Myxofibrosarcoma
+1992,ACH-002795,CIC-DUX4 Sarcoma
+1993,ACH-002796,CIC-DUX4 Sarcoma
+1994,ACH-002798,Dermatofibrosarcoma Protuberans
+1995,ACH-002799,Malignant Peripheral Nerve Sheath Tumor
+1996,ACH-002800,Malignant Peripheral Nerve Sheath Tumor
+1997,ACH-002801,Malignant Peripheral Nerve Sheath Tumor
+1998,ACH-002802,Malignant Peripheral Nerve Sheath Tumor
+1999,ACH-002806,Anaplastic Astrocytoma
+2000,ACH-002834,Osteosarcoma
+2001,ACH-002835,Esophageal Adenocarcinoma
+2002,ACH-002837,Esophageal Adenocarcinoma
+2003,ACH-002839,Colon Adenocarcinoma
+2004,ACH-002843,Desmoid/Aggressive Fibromatosis
+2005,ACH-002844,Desmoid/Aggressive Fibromatosis
+2006,ACH-002846,Acral Melanoma
+2007,ACH-002847,Melanoma
+2008,ACH-002871,Esophageal Adenocarcinoma
+2009,ACH-002883,Breast Invasive Lobular Carcinoma
+2010,ACH-002884,Breast Invasive Lobular Carcinoma
+2011,ACH-002885,Breast Invasive Ductal Carcinoma
+2012,ACH-002886,Colon Adenocarcinoma
+2013,ACH-002921,Breast Invasive Lobular Carcinoma
+2014,ACH-002922,Neuroblastoma
+2015,ACH-002924,Uveal Melanoma
+2016,ACH-002925,Uveal Melanoma
+2017,ACH-002926,Uveal Melanoma
+2018,ACH-002927,Uveal Melanoma
+2019,ACH-002928,Acral Melanoma
+2020,ACH-002932,Colorectal Adenocarcinoma
+2021,ACH-002936,Alveolar Rhabdomyosarcoma
+2022,ACH-002937,Wilms' Tumor
+2023,ACH-002942,Leiomyosarcoma
+2024,ACH-002946,Acute Myeloid Leukemia
+2025,ACH-002950,Invasive Breast Carcinoma
+2026,ACH-002951,Invasive Breast Carcinoma
+2027,ACH-002954,Esophageal Adenocarcinoma
+2028,ACH-002967,Stomach Adenocarcinoma
+2029,ACH-002968,Stomach Adenocarcinoma
+2030,ACH-002972,Stomach Adenocarcinoma
+2031,ACH-002979,Diffuse Type Stomach Adenocarcinoma
+2032,ACH-002981,Esophageal Adenocarcinoma
+2033,ACH-002994,Acute Myeloid Leukemia
+2034,ACH-002996,Non-Small Cell Lung Cancer
+2035,ACH-003012,Lung Adenocarcinoma
+2036,ACH-003019,Prostate Neuroendocrine Carcinoma
+2037,ACH-003061,Small Cell Lung Cancer
+2038,ACH-003065,Atypical Teratoid/Rhabdoid Tumor
+2039,ACH-003067,Medulloblastoma
+2040,ACH-003071,Small Cell Lung Cancer
+2041,ACH-003099,Oral Cavity Squamous Cell Carcinoma
+2042,ACH-003100,"Diffuse Large B-Cell Lymphoma, NOS"
+2043,ACH-003101,B-Cell Acute Lymphoblastic Leukemia
+2044,ACH-003103,B-Cell Acute Lymphoblastic Leukemia
+2045,ACH-003105,Melanoma
+2046,ACH-003106,Germinal Center B-Cell Type
+2047,ACH-003107,Mantle Cell Lymphoma
+2048,ACH-003108,Germinal Center B-Cell Type
+2049,ACH-003111,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+2050,ACH-003119,Small Cell Lung Cancer
+2051,ACH-003120,Small Cell Lung Cancer
+2052,ACH-003121,Small Cell Lung Cancer
+2053,ACH-003125,Alveolar Soft Part Sarcoma
+2054,ACH-003132,Immortalized Human Intervertebral Disc Cartilage Endplate-derived Stem Cells
+2055,ACH-003133,Immortalized Human Chondrocytes
+2056,ACH-003134,Immortalized Human Pancreatic Mesenchymal Stem Cells
+2057,ACH-003135,Immortalized Astrocytes
+2058,ACH-003136,Immortalized Human Chondrocytes
+2059,ACH-003137,Immortalized Astrocytes
+2060,ACH-003138,"Immortalized Endothelial Cells, Endoneurial"
+2061,ACH-003139,Immortalized Cardiomyocytes
+2062,ACH-003141,"immortalized Smooth Muscle Cells, Coronary artery"
+2063,ACH-003142,"Immortalized Smooth Muscle Cells, Pulmonary artery"
+2064,ACH-003143,"Immortalized Epithelial Cells, Renal"
+2065,ACH-003145,"Immortalized Endothelial Cells, Umbilical Vein"
+2066,ACH-003147,Immortalized Submandibular Gland Cells
+2067,ACH-003148,Immortalized Neuronal Progenitor Cells
+2068,ACH-003149,Immortalized Skeletal Muscle Cells
+2069,ACH-003150,Immortalized Astrocytes
+2070,ACH-003152,"Immortalized Epithelial Cells, Lung"
+2071,ACH-003153,"Immortalized Epithelial Cells, Lung"
+2072,ACH-003154,"Immortalized Epithelial Cells, Lung"
+2073,ACH-003155,Immortalized Liver Cells
+2074,ACH-003156,"Immortalized Epithelial Cells, Lung"
+2075,ACH-003157,Immortalized MPLC Cells
+2076,ACH-003158,"Immortalized Smooth Muscle Cells, Intestinal"
+2077,ACH-003159,Immortalized Hair Follicle Inner Root Sheath Cells
+2078,ACH-003160,Immortalized Hair Germinal Matrix Cells
+2079,ACH-003161,Immortalized Pancreatic Stromal Cells
+2080,ACH-003176,Osteosarcoma
+2081,ACH-003177,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+2082,ACH-003180,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+2083,ACH-003181,Leiomyosarcoma
+2084,ACH-003183,Myxofibrosarcoma
+2085,ACH-003184,Leiomyosarcoma
+2086,ACH-003187,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+2087,ACH-003191,Giant Cell Tumor of Bone
+2088,ACH-003221,Fibroblast
+2089,ACH-003226,Chordoma
+2090,ACH-003227,Chordoma
+2091,ACH-003265,Leiomyosarcoma
+2092,ACH-003266,Leiomyosarcoma
+2093,ACH-003267,Leiomyosarcoma
+2094,ACH-003268,Leiomyosarcoma
+2095,ACH-003269,Leiomyosarcoma
+2096,ACH-003273,Acute Myeloid Leukemia
+2097,ACH-003283,Fibroblast
+2098,ACH-003284,Fibroblast
+2099,ACH-003295,Transformed cell line
+2100,ACH-003296,Transformed cell line
+2101,ACH-003297,Transformed cell line
+2102,ACH-003305,Transformed cell line
+2103,ACH-003307,Transformed cell line
+2104,ACH-003308,Transformed cell line
+2105,ACH-003313,Transformed cell line
+2106,ACH-003426,Esophageal Adenocarcinoma
+2107,ACH-003429,Pancreatic Adenocarcinoma
+2108,ACH-003430,Pancreatic Adenocarcinoma
+2109,ACH-003433,Pancreatic Adenocarcinoma
+2110,ACH-003437,Stomach Adenocarcinoma
+2111,ACH-003438,Glioblastoma
+2112,ACH-003451,Wilms' Tumor
+2113,ACH-003455,Melanoma
+2114,ACH-003456,Melanoma
+2115,ACH-003457,Melanoma
+2116,ACH-003458,Melanoma
+2117,ACH-003459,Melanoma
+2118,ACH-003460,"Diffuse Large B-Cell Lymphoma, NOS"
+2119,ACH-003463,T-Cell Prolymphocytic Leukemia
+2120,ACH-003464,Liposarcoma
+2121,ACH-003465,Head and Neck Squamous Cell Carcinoma
+2122,ACH-003468,Anaplastic Thyroid Cancer
+2123,ACH-003469,Anaplastic Thyroid Cancer
+2124,ACH-003470,Anaplastic Thyroid Cancer
+2125,ACH-003471,Papillary Thyroid Cancer
+2126,ACH-003472,Medullary Thyroid Cancer
+2127,ACH-003473,Embryonal Rhabdomyosarcoma
+2128,ACH-003474,Head and Neck Squamous Cell Carcinoma
+2129,ACH-003475,Head and Neck Squamous Cell Carcinoma
+2130,ACH-003476,Esophageal Squamous Cell Carcinoma
+2131,ACH-003480,Anaplastic Thyroid Cancer
